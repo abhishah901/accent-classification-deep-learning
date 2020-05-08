@@ -2171,3 +2171,1452 @@ age,age_onset,birthplace,filename,native_language,sex,speakerid,country,file_mis
 47,2,"ibadan, nigeria",yoruba5,yoruba,female,2023,nigeria,FALSE,,,
 31,1,"bethel, alaska, usa",yupik1,yupik,female,571,usa,FALSE,,,
 24,14,"bulawayo, zimbabwe",zulu1,zulu,female,406,zimbabwe,FALSE,,,
+19.0,9.0,"yerevan, armenia",armenian9,armenian,female,24,armenia,False
+44.0,7.0,"tehran, iran",armenian10,armenian,female,435,iran,False
+54.0,12.0,"yerevan, armenia",armenian11,armenian,female,849,armenia,False
+27.0,12.0,"tbilisi, republic of georgia",armenian12,armenian,female,947,republic of georgia,False
+21.0,15.0,"yerevan, armenia",armenian13,armenian,female,997,armenia,False
+23.0,11.0,"armavir, russia",armenian14,armenian,male,1228,russia,False
+31.0,10.0,"tehran, iran",armenian15,armenian,male,1505,iran,False
+50.0,35.0,"yerevan, armenia",armenian16,armenian,female,1710,armenia,False
+19.0,9.0,"yerevan, armenia",armenian17,armenian,female,24,armenia,False
+44.0,7.0,"tehran, iran",armenian18,armenian,female,435,iran,False
+54.0,12.0,"yerevan, armenia",armenian19,armenian,female,849,armenia,False
+27.0,12.0,"tbilisi, republic of georgia",armenian20,armenian,female,947,republic of georgia,False
+21.0,15.0,"yerevan, armenia",armenian21,armenian,female,997,armenia,False
+23.0,11.0,"armavir, russia",armenian22,armenian,male,1228,russia,False
+31.0,10.0,"tehran, iran",armenian23,armenian,male,1505,iran,False
+50.0,35.0,"yerevan, armenia",armenian24,armenian,female,1710,armenia,False
+19.0,9.0,"yerevan, armenia",armenian25,armenian,female,24,armenia,False
+44.0,7.0,"tehran, iran",armenian26,armenian,female,435,iran,False
+54.0,12.0,"yerevan, armenia",armenian27,armenian,female,849,armenia,False
+27.0,12.0,"tbilisi, republic of georgia",armenian28,armenian,female,947,republic of georgia,False
+21.0,15.0,"yerevan, armenia",armenian29,armenian,female,997,armenia,False
+23.0,11.0,"armavir, russia",armenian30,armenian,male,1228,russia,False
+31.0,10.0,"tehran, iran",armenian31,armenian,male,1505,iran,False
+50.0,35.0,"yerevan, armenia",armenian32,armenian,female,1710,armenia,False
+19.0,9.0,"yerevan, armenia",armenian33,armenian,female,24,armenia,False
+44.0,7.0,"tehran, iran",armenian34,armenian,female,435,iran,False
+54.0,12.0,"yerevan, armenia",armenian35,armenian,female,849,armenia,False
+27.0,12.0,"tbilisi, republic of georgia",armenian36,armenian,female,947,republic of georgia,False
+21.0,15.0,"yerevan, armenia",armenian37,armenian,female,997,armenia,False
+23.0,11.0,"armavir, russia",armenian38,armenian,male,1228,russia,False
+31.0,10.0,"tehran, iran",armenian39,armenian,male,1505,iran,False
+50.0,35.0,"yerevan, armenia",armenian40,armenian,female,1710,armenia,False
+19.0,9.0,"yerevan, armenia",armenian41,armenian,female,24,armenia,False
+44.0,7.0,"tehran, iran",armenian42,armenian,female,435,iran,False
+54.0,12.0,"yerevan, armenia",armenian43,armenian,female,849,armenia,False
+27.0,12.0,"tbilisi, republic of georgia",armenian44,armenian,female,947,republic of georgia,False
+21.0,15.0,"yerevan, armenia",armenian45,armenian,female,997,armenia,False
+23.0,11.0,"armavir, russia",armenian46,armenian,male,1228,russia,False
+31.0,10.0,"tehran, iran",armenian47,armenian,male,1505,iran,False
+50.0,35.0,"yerevan, armenia",armenian48,armenian,female,1710,armenia,False
+19.0,9.0,"yerevan, armenia",armenian49,armenian,female,24,armenia,False
+44.0,7.0,"tehran, iran",armenian50,armenian,female,435,iran,False
+81.0,16.0,"unije, croatia",croatian9,croatian,female,477,croatia,False
+35.0,10.0,"mostar, bosnia and herzegovina",croatian10,croatian,female,561,bosnia and herzegovina,False
+44.0,10.0,"split, croatia",croatian11,croatian,female,661,croatia,False
+38.0,11.0,"rijeka, croatia",croatian12,croatian,male,950,croatia,False
+26.0,11.0,"tomislavgrad, bosnia and herzegovina",croatian13,croatian,female,1063,bosnia and herzegovina,False
+23.0,14.0,"doboj, bosnia and herzegovina",croatian14,croatian,female,1083,bosnia and herzegovina,False
+21.0,7.0,"rijeka, croatia",croatian15,croatian,female,1556,croatia,False
+39.0,22.0,"gospic, croatia",croatian16,croatian,male,1983,croatia,False
+81.0,16.0,"unije, croatia",croatian17,croatian,female,477,croatia,False
+35.0,10.0,"mostar, bosnia and herzegovina",croatian18,croatian,female,561,bosnia and herzegovina,False
+44.0,10.0,"split, croatia",croatian19,croatian,female,661,croatia,False
+38.0,11.0,"rijeka, croatia",croatian20,croatian,male,950,croatia,False
+26.0,11.0,"tomislavgrad, bosnia and herzegovina",croatian21,croatian,female,1063,bosnia and herzegovina,False
+23.0,14.0,"doboj, bosnia and herzegovina",croatian22,croatian,female,1083,bosnia and herzegovina,False
+21.0,7.0,"rijeka, croatia",croatian23,croatian,female,1556,croatia,False
+39.0,22.0,"gospic, croatia",croatian24,croatian,male,1983,croatia,False
+81.0,16.0,"unije, croatia",croatian25,croatian,female,477,croatia,False
+35.0,10.0,"mostar, bosnia and herzegovina",croatian26,croatian,female,561,bosnia and herzegovina,False
+44.0,10.0,"split, croatia",croatian27,croatian,female,661,croatia,False
+38.0,11.0,"rijeka, croatia",croatian28,croatian,male,950,croatia,False
+26.0,11.0,"tomislavgrad, bosnia and herzegovina",croatian29,croatian,female,1063,bosnia and herzegovina,False
+23.0,14.0,"doboj, bosnia and herzegovina",croatian30,croatian,female,1083,bosnia and herzegovina,False
+21.0,7.0,"rijeka, croatia",croatian31,croatian,female,1556,croatia,False
+39.0,22.0,"gospic, croatia",croatian32,croatian,male,1983,croatia,False
+81.0,16.0,"unije, croatia",croatian33,croatian,female,477,croatia,False
+35.0,10.0,"mostar, bosnia and herzegovina",croatian34,croatian,female,561,bosnia and herzegovina,False
+44.0,10.0,"split, croatia",croatian35,croatian,female,661,croatia,False
+38.0,11.0,"rijeka, croatia",croatian36,croatian,male,950,croatia,False
+26.0,11.0,"tomislavgrad, bosnia and herzegovina",croatian37,croatian,female,1063,bosnia and herzegovina,False
+23.0,14.0,"doboj, bosnia and herzegovina",croatian38,croatian,female,1083,bosnia and herzegovina,False
+21.0,7.0,"rijeka, croatia",croatian39,croatian,female,1556,croatia,False
+39.0,22.0,"gospic, croatia",croatian40,croatian,male,1983,croatia,False
+81.0,16.0,"unije, croatia",croatian41,croatian,female,477,croatia,False
+35.0,10.0,"mostar, bosnia and herzegovina",croatian42,croatian,female,561,bosnia and herzegovina,False
+44.0,10.0,"split, croatia",croatian43,croatian,female,661,croatia,False
+38.0,11.0,"rijeka, croatia",croatian44,croatian,male,950,croatia,False
+26.0,11.0,"tomislavgrad, bosnia and herzegovina",croatian45,croatian,female,1063,bosnia and herzegovina,False
+23.0,14.0,"doboj, bosnia and herzegovina",croatian46,croatian,female,1083,bosnia and herzegovina,False
+21.0,7.0,"rijeka, croatia",croatian47,croatian,female,1556,croatia,False
+39.0,22.0,"gospic, croatia",croatian48,croatian,male,1983,croatia,False
+81.0,16.0,"unije, croatia",croatian49,croatian,female,477,croatia,False
+35.0,10.0,"mostar, bosnia and herzegovina",croatian50,croatian,female,561,bosnia and herzegovina,False
+45.0,11.0,"horsens, denmark",danish9,danish,female,54,denmark,False
+37.0,8.0,"haslev, denmark",danish10,danish,female,55,denmark,False
+53.0,12.0,"copenhagen, denmark",danish11,danish,female,1367,denmark,False
+21.0,11.0,"aarhus, denmark",danish12,danish,female,1434,denmark,False
+49.0,8.0,"egvad, denmark",danish13,danish,female,1573,denmark,False
+19.0,8.0,"alborg, denmark",danish14,danish,male,1577,denmark,False
+22.0,8.0,"copenhagen, denmark",danish15,danish,male,1717,denmark,False
+28.0,11.0,"sunds, denmark",danish16,danish,female,1746,denmark,False
+45.0,11.0,"horsens, denmark",danish17,danish,female,54,denmark,False
+37.0,8.0,"haslev, denmark",danish18,danish,female,55,denmark,False
+53.0,12.0,"copenhagen, denmark",danish19,danish,female,1367,denmark,False
+21.0,11.0,"aarhus, denmark",danish20,danish,female,1434,denmark,False
+49.0,8.0,"egvad, denmark",danish21,danish,female,1573,denmark,False
+19.0,8.0,"alborg, denmark",danish22,danish,male,1577,denmark,False
+22.0,8.0,"copenhagen, denmark",danish23,danish,male,1717,denmark,False
+28.0,11.0,"sunds, denmark",danish24,danish,female,1746,denmark,False
+45.0,11.0,"horsens, denmark",danish25,danish,female,54,denmark,False
+37.0,8.0,"haslev, denmark",danish26,danish,female,55,denmark,False
+53.0,12.0,"copenhagen, denmark",danish27,danish,female,1367,denmark,False
+21.0,11.0,"aarhus, denmark",danish28,danish,female,1434,denmark,False
+49.0,8.0,"egvad, denmark",danish29,danish,female,1573,denmark,False
+19.0,8.0,"alborg, denmark",danish30,danish,male,1577,denmark,False
+22.0,8.0,"copenhagen, denmark",danish31,danish,male,1717,denmark,False
+28.0,11.0,"sunds, denmark",danish32,danish,female,1746,denmark,False
+45.0,11.0,"horsens, denmark",danish33,danish,female,54,denmark,False
+37.0,8.0,"haslev, denmark",danish34,danish,female,55,denmark,False
+53.0,12.0,"copenhagen, denmark",danish35,danish,female,1367,denmark,False
+21.0,11.0,"aarhus, denmark",danish36,danish,female,1434,denmark,False
+49.0,8.0,"egvad, denmark",danish37,danish,female,1573,denmark,False
+19.0,8.0,"alborg, denmark",danish38,danish,male,1577,denmark,False
+22.0,8.0,"copenhagen, denmark",danish39,danish,male,1717,denmark,False
+28.0,11.0,"sunds, denmark",danish40,danish,female,1746,denmark,False
+45.0,11.0,"horsens, denmark",danish41,danish,female,54,denmark,False
+37.0,8.0,"haslev, denmark",danish42,danish,female,55,denmark,False
+53.0,12.0,"copenhagen, denmark",danish43,danish,female,1367,denmark,False
+21.0,11.0,"aarhus, denmark",danish44,danish,female,1434,denmark,False
+49.0,8.0,"egvad, denmark",danish45,danish,female,1573,denmark,False
+19.0,8.0,"alborg, denmark",danish46,danish,male,1577,denmark,False
+22.0,8.0,"copenhagen, denmark",danish47,danish,male,1717,denmark,False
+28.0,11.0,"sunds, denmark",danish48,danish,female,1746,denmark,False
+45.0,11.0,"horsens, denmark",danish49,danish,female,54,denmark,False
+37.0,8.0,"haslev, denmark",danish50,danish,female,55,denmark,False
+22.0,9.0,"lahti, finland",finnish9,finnish,female,177,finland,False
+20.0,7.0,"helsinki, finland",finnish10,finnish,male,178,finland,False
+20.0,7.0,"helsinki, finland",finnish11,finnish,female,699,finland,False
+30.0,9.0,"helsinki, finland",finnish12,finnish,female,700,finland,False
+30.0,5.0,"victoria, british columbia, canada",finnish13,finnish,male,873,canada,False
+19.0,9.0,"riihimaki, finland",finnish14,finnish,female,1221,finland,False
+46.0,9.0,"kauhava, finland",finnish15,finnish,female,1939,finland,False
+18.0,9.0,"tampere, finland",finnish16,finnish,female,2145,finland,False
+22.0,9.0,"lahti, finland",finnish17,finnish,female,177,finland,False
+20.0,7.0,"helsinki, finland",finnish18,finnish,male,178,finland,False
+20.0,7.0,"helsinki, finland",finnish19,finnish,female,699,finland,False
+30.0,9.0,"helsinki, finland",finnish20,finnish,female,700,finland,False
+30.0,5.0,"victoria, british columbia, canada",finnish21,finnish,male,873,canada,False
+19.0,9.0,"riihimaki, finland",finnish22,finnish,female,1221,finland,False
+46.0,9.0,"kauhava, finland",finnish23,finnish,female,1939,finland,False
+18.0,9.0,"tampere, finland",finnish24,finnish,female,2145,finland,False
+22.0,9.0,"lahti, finland",finnish25,finnish,female,177,finland,False
+20.0,7.0,"helsinki, finland",finnish26,finnish,male,178,finland,False
+20.0,7.0,"helsinki, finland",finnish27,finnish,female,699,finland,False
+30.0,9.0,"helsinki, finland",finnish28,finnish,female,700,finland,False
+30.0,5.0,"victoria, british columbia, canada",finnish29,finnish,male,873,canada,False
+19.0,9.0,"riihimaki, finland",finnish30,finnish,female,1221,finland,False
+46.0,9.0,"kauhava, finland",finnish31,finnish,female,1939,finland,False
+18.0,9.0,"tampere, finland",finnish32,finnish,female,2145,finland,False
+22.0,9.0,"lahti, finland",finnish33,finnish,female,177,finland,False
+20.0,7.0,"helsinki, finland",finnish34,finnish,male,178,finland,False
+20.0,7.0,"helsinki, finland",finnish35,finnish,female,699,finland,False
+30.0,9.0,"helsinki, finland",finnish36,finnish,female,700,finland,False
+30.0,5.0,"victoria, british columbia, canada",finnish37,finnish,male,873,canada,False
+19.0,9.0,"riihimaki, finland",finnish38,finnish,female,1221,finland,False
+46.0,9.0,"kauhava, finland",finnish39,finnish,female,1939,finland,False
+18.0,9.0,"tampere, finland",finnish40,finnish,female,2145,finland,False
+22.0,9.0,"lahti, finland",finnish41,finnish,female,177,finland,False
+20.0,7.0,"helsinki, finland",finnish42,finnish,male,178,finland,False
+20.0,7.0,"helsinki, finland",finnish43,finnish,female,699,finland,False
+30.0,9.0,"helsinki, finland",finnish44,finnish,female,700,finland,False
+30.0,5.0,"victoria, british columbia, canada",finnish45,finnish,male,873,canada,False
+19.0,9.0,"riihimaki, finland",finnish46,finnish,female,1221,finland,False
+46.0,9.0,"kauhava, finland",finnish47,finnish,female,1939,finland,False
+18.0,9.0,"tampere, finland",finnish48,finnish,female,2145,finland,False
+22.0,9.0,"lahti, finland",finnish49,finnish,female,177,finland,False
+20.0,7.0,"helsinki, finland",finnish50,finnish,male,178,finland,False
+31.0,13.0,"jakarta, indonesia",indonesian9,indonesian,male,213,indonesia,False
+18.0,13.0,"jakarta, indonesia",indonesian10,indonesian,male,214,indonesia,False
+32.0,13.0,"jakarta, indonesia",indonesian11,indonesian,female,215,indonesia,False
+30.0,10.0,"jakarta, indonesia",indonesian12,indonesian,female,216,indonesia,False
+29.0,7.0,"jakarta, indonesia",indonesian13,indonesian,male,1054,indonesia,False
+20.0,8.0,"jakarta, indonesia",indonesian14,indonesian,male,1309,indonesia,False
+45.0,12.0,"kediri, java, indonesia",indonesian15,indonesian,female,1496,indonesia,False
+32.0,14.0,"jakarta, indonesia",indonesian16,indonesian,male,1775,indonesia,False
+31.0,13.0,"jakarta, indonesia",indonesian17,indonesian,male,213,indonesia,False
+18.0,13.0,"jakarta, indonesia",indonesian18,indonesian,male,214,indonesia,False
+32.0,13.0,"jakarta, indonesia",indonesian19,indonesian,female,215,indonesia,False
+30.0,10.0,"jakarta, indonesia",indonesian20,indonesian,female,216,indonesia,False
+29.0,7.0,"jakarta, indonesia",indonesian21,indonesian,male,1054,indonesia,False
+20.0,8.0,"jakarta, indonesia",indonesian22,indonesian,male,1309,indonesia,False
+45.0,12.0,"kediri, java, indonesia",indonesian23,indonesian,female,1496,indonesia,False
+32.0,14.0,"jakarta, indonesia",indonesian24,indonesian,male,1775,indonesia,False
+31.0,13.0,"jakarta, indonesia",indonesian25,indonesian,male,213,indonesia,False
+18.0,13.0,"jakarta, indonesia",indonesian26,indonesian,male,214,indonesia,False
+32.0,13.0,"jakarta, indonesia",indonesian27,indonesian,female,215,indonesia,False
+30.0,10.0,"jakarta, indonesia",indonesian28,indonesian,female,216,indonesia,False
+29.0,7.0,"jakarta, indonesia",indonesian29,indonesian,male,1054,indonesia,False
+20.0,8.0,"jakarta, indonesia",indonesian30,indonesian,male,1309,indonesia,False
+45.0,12.0,"kediri, java, indonesia",indonesian31,indonesian,female,1496,indonesia,False
+32.0,14.0,"jakarta, indonesia",indonesian32,indonesian,male,1775,indonesia,False
+31.0,13.0,"jakarta, indonesia",indonesian33,indonesian,male,213,indonesia,False
+18.0,13.0,"jakarta, indonesia",indonesian34,indonesian,male,214,indonesia,False
+32.0,13.0,"jakarta, indonesia",indonesian35,indonesian,female,215,indonesia,False
+30.0,10.0,"jakarta, indonesia",indonesian36,indonesian,female,216,indonesia,False
+29.0,7.0,"jakarta, indonesia",indonesian37,indonesian,male,1054,indonesia,False
+20.0,8.0,"jakarta, indonesia",indonesian38,indonesian,male,1309,indonesia,False
+45.0,12.0,"kediri, java, indonesia",indonesian39,indonesian,female,1496,indonesia,False
+32.0,14.0,"jakarta, indonesia",indonesian40,indonesian,male,1775,indonesia,False
+31.0,13.0,"jakarta, indonesia",indonesian41,indonesian,male,213,indonesia,False
+18.0,13.0,"jakarta, indonesia",indonesian42,indonesian,male,214,indonesia,False
+32.0,13.0,"jakarta, indonesia",indonesian43,indonesian,female,215,indonesia,False
+30.0,10.0,"jakarta, indonesia",indonesian44,indonesian,female,216,indonesia,False
+29.0,7.0,"jakarta, indonesia",indonesian45,indonesian,male,1054,indonesia,False
+20.0,8.0,"jakarta, indonesia",indonesian46,indonesian,male,1309,indonesia,False
+45.0,12.0,"kediri, java, indonesia",indonesian47,indonesian,female,1496,indonesia,False
+32.0,14.0,"jakarta, indonesia",indonesian48,indonesian,male,1775,indonesia,False
+31.0,13.0,"jakarta, indonesia",indonesian49,indonesian,male,213,indonesia,False
+18.0,13.0,"jakarta, indonesia",indonesian50,indonesian,male,214,indonesia,False
+36.0,13.0,"ping tung, taiwan",taiwanese9,taiwanese,female,363,taiwan,False
+24.0,17.0,"taipei, taiwan",taiwanese10,taiwanese,female,364,taiwan,False
+30.0,13.0,"tainan, taiwan",taiwanese11,taiwanese,female,365,taiwan,False
+45.0,21.0,"kao-hsiung, taiwan",taiwanese12,taiwanese,female,366,taiwan,False
+27.0,15.0,"tainan, taiwan",taiwanese13,taiwanese,male,481,taiwan,False
+33.0,13.0,"tai chung, taiwan",taiwanese14,taiwanese,female,828,taiwan,False
+65.0,35.0,"taipei, taiwan",taiwanese15,taiwanese,famale,1864,taiwan,False
+54.0,13.0,"tainan, taiwan",taiwanese16,taiwanese,female,2136,taiwan,False
+36.0,13.0,"ping tung, taiwan",taiwanese17,taiwanese,female,363,taiwan,False
+24.0,17.0,"taipei, taiwan",taiwanese18,taiwanese,female,364,taiwan,False
+30.0,13.0,"tainan, taiwan",taiwanese19,taiwanese,female,365,taiwan,False
+45.0,21.0,"kao-hsiung, taiwan",taiwanese20,taiwanese,female,366,taiwan,False
+27.0,15.0,"tainan, taiwan",taiwanese21,taiwanese,male,481,taiwan,False
+33.0,13.0,"tai chung, taiwan",taiwanese22,taiwanese,female,828,taiwan,False
+65.0,35.0,"taipei, taiwan",taiwanese23,taiwanese,famale,1864,taiwan,False
+54.0,13.0,"tainan, taiwan",taiwanese24,taiwanese,female,2136,taiwan,False
+36.0,13.0,"ping tung, taiwan",taiwanese25,taiwanese,female,363,taiwan,False
+24.0,17.0,"taipei, taiwan",taiwanese26,taiwanese,female,364,taiwan,False
+30.0,13.0,"tainan, taiwan",taiwanese27,taiwanese,female,365,taiwan,False
+45.0,21.0,"kao-hsiung, taiwan",taiwanese28,taiwanese,female,366,taiwan,False
+27.0,15.0,"tainan, taiwan",taiwanese29,taiwanese,male,481,taiwan,False
+33.0,13.0,"tai chung, taiwan",taiwanese30,taiwanese,female,828,taiwan,False
+65.0,35.0,"taipei, taiwan",taiwanese31,taiwanese,famale,1864,taiwan,False
+54.0,13.0,"tainan, taiwan",taiwanese32,taiwanese,female,2136,taiwan,False
+36.0,13.0,"ping tung, taiwan",taiwanese33,taiwanese,female,363,taiwan,False
+24.0,17.0,"taipei, taiwan",taiwanese34,taiwanese,female,364,taiwan,False
+30.0,13.0,"tainan, taiwan",taiwanese35,taiwanese,female,365,taiwan,False
+45.0,21.0,"kao-hsiung, taiwan",taiwanese36,taiwanese,female,366,taiwan,False
+27.0,15.0,"tainan, taiwan",taiwanese37,taiwanese,male,481,taiwan,False
+33.0,13.0,"tai chung, taiwan",taiwanese38,taiwanese,female,828,taiwan,False
+65.0,35.0,"taipei, taiwan",taiwanese39,taiwanese,famale,1864,taiwan,False
+54.0,13.0,"tainan, taiwan",taiwanese40,taiwanese,female,2136,taiwan,False
+36.0,13.0,"ping tung, taiwan",taiwanese41,taiwanese,female,363,taiwan,False
+24.0,17.0,"taipei, taiwan",taiwanese42,taiwanese,female,364,taiwan,False
+30.0,13.0,"tainan, taiwan",taiwanese43,taiwanese,female,365,taiwan,False
+45.0,21.0,"kao-hsiung, taiwan",taiwanese44,taiwanese,female,366,taiwan,False
+27.0,15.0,"tainan, taiwan",taiwanese45,taiwanese,male,481,taiwan,False
+33.0,13.0,"tai chung, taiwan",taiwanese46,taiwanese,female,828,taiwan,False
+65.0,35.0,"taipei, taiwan",taiwanese47,taiwanese,famale,1864,taiwan,False
+54.0,13.0,"tainan, taiwan",taiwanese48,taiwanese,female,2136,taiwan,False
+36.0,13.0,"ping tung, taiwan",taiwanese49,taiwanese,female,363,taiwan,False
+24.0,17.0,"taipei, taiwan",taiwanese50,taiwanese,female,364,taiwan,False
+25.0,17.0,"adigrat, ethiopia",tigrigna9,tigrigna,female,377,ethiopia,False
+23.0,20.0,"asmara, eritrea",tigrigna10,tigrigna,female,378,eritrea,False
+44.0,7.0,"asmara, eritrea",tigrigna11,tigrigna,male,379,eritrea,False
+52.0,14.0,"asmara, eritrea",tigrigna12,tigrigna,female,588,eritrea,False
+45.0,10.0,"asmara, eritrea",tigrigna13,tigrigna,male,1107,eritrea,False
+58.0,15.0,"adigrat, ethiopia",tigrigna14,tigrigna,female,1151,ethiopia,False
+37.0,7.0,"asmara, eritrea",tigrigna15,tigrigna,female,1855,eritrea,False
+35.0,7.0,"asmara, eritrea",tigrigna16,tigrigna,male,2054,eritrea,False
+25.0,17.0,"adigrat, ethiopia",tigrigna17,tigrigna,female,377,ethiopia,False
+23.0,20.0,"asmara, eritrea",tigrigna18,tigrigna,female,378,eritrea,False
+44.0,7.0,"asmara, eritrea",tigrigna19,tigrigna,male,379,eritrea,False
+52.0,14.0,"asmara, eritrea",tigrigna20,tigrigna,female,588,eritrea,False
+45.0,10.0,"asmara, eritrea",tigrigna21,tigrigna,male,1107,eritrea,False
+58.0,15.0,"adigrat, ethiopia",tigrigna22,tigrigna,female,1151,ethiopia,False
+37.0,7.0,"asmara, eritrea",tigrigna23,tigrigna,female,1855,eritrea,False
+35.0,7.0,"asmara, eritrea",tigrigna24,tigrigna,male,2054,eritrea,False
+25.0,17.0,"adigrat, ethiopia",tigrigna25,tigrigna,female,377,ethiopia,False
+23.0,20.0,"asmara, eritrea",tigrigna26,tigrigna,female,378,eritrea,False
+44.0,7.0,"asmara, eritrea",tigrigna27,tigrigna,male,379,eritrea,False
+52.0,14.0,"asmara, eritrea",tigrigna28,tigrigna,female,588,eritrea,False
+45.0,10.0,"asmara, eritrea",tigrigna29,tigrigna,male,1107,eritrea,False
+58.0,15.0,"adigrat, ethiopia",tigrigna30,tigrigna,female,1151,ethiopia,False
+37.0,7.0,"asmara, eritrea",tigrigna31,tigrigna,female,1855,eritrea,False
+35.0,7.0,"asmara, eritrea",tigrigna32,tigrigna,male,2054,eritrea,False
+25.0,17.0,"adigrat, ethiopia",tigrigna33,tigrigna,female,377,ethiopia,False
+23.0,20.0,"asmara, eritrea",tigrigna34,tigrigna,female,378,eritrea,False
+44.0,7.0,"asmara, eritrea",tigrigna35,tigrigna,male,379,eritrea,False
+52.0,14.0,"asmara, eritrea",tigrigna36,tigrigna,female,588,eritrea,False
+45.0,10.0,"asmara, eritrea",tigrigna37,tigrigna,male,1107,eritrea,False
+58.0,15.0,"adigrat, ethiopia",tigrigna38,tigrigna,female,1151,ethiopia,False
+37.0,7.0,"asmara, eritrea",tigrigna39,tigrigna,female,1855,eritrea,False
+35.0,7.0,"asmara, eritrea",tigrigna40,tigrigna,male,2054,eritrea,False
+25.0,17.0,"adigrat, ethiopia",tigrigna41,tigrigna,female,377,ethiopia,False
+23.0,20.0,"asmara, eritrea",tigrigna42,tigrigna,female,378,eritrea,False
+44.0,7.0,"asmara, eritrea",tigrigna43,tigrigna,male,379,eritrea,False
+52.0,14.0,"asmara, eritrea",tigrigna44,tigrigna,female,588,eritrea,False
+45.0,10.0,"asmara, eritrea",tigrigna45,tigrigna,male,1107,eritrea,False
+58.0,15.0,"adigrat, ethiopia",tigrigna46,tigrigna,female,1151,ethiopia,False
+37.0,7.0,"asmara, eritrea",tigrigna47,tigrigna,female,1855,eritrea,False
+35.0,7.0,"asmara, eritrea",tigrigna48,tigrigna,male,2054,eritrea,False
+25.0,17.0,"adigrat, ethiopia",tigrigna49,tigrigna,female,377,ethiopia,False
+23.0,20.0,"asmara, eritrea",tigrigna50,tigrigna,female,378,eritrea,False
+19.0,6.0,"prishtina, kosovo",albanian10,albanian,male,4,kosovo,False
+33.0,15.0,"tirana, albania",albanian11,albanian,male,5,albania,False
+44.0,35.0,"tirana, albania",albanian12,albanian,male,458,albania,False
+33.0,28.0,"mitrovice, kosovo",albanian13,albanian,male,868,kosovo,False
+31.0,11.0,"vlore, albania",albanian14,albanian,male,946,albania,False
+25.0,11.0,"prishtina, kosovo",albanian15,albanian,female,1081,kosovo,False
+45.0,11.0,"prishtina, kosovo",albanian16,albanian,female,1403,kosovo,False
+43.0,9.0,"prishtina, kosovo",albanian17,albanian,female,1404,kosovo,False
+22.0,6.0,"tirana, albania",albanian18,albanian,female,1706,albania,False
+19.0,6.0,"prishtina, kosovo",albanian19,albanian,male,4,kosovo,False
+33.0,15.0,"tirana, albania",albanian20,albanian,male,5,albania,False
+44.0,35.0,"tirana, albania",albanian21,albanian,male,458,albania,False
+33.0,28.0,"mitrovice, kosovo",albanian22,albanian,male,868,kosovo,False
+31.0,11.0,"vlore, albania",albanian23,albanian,male,946,albania,False
+25.0,11.0,"prishtina, kosovo",albanian24,albanian,female,1081,kosovo,False
+45.0,11.0,"prishtina, kosovo",albanian25,albanian,female,1403,kosovo,False
+43.0,9.0,"prishtina, kosovo",albanian26,albanian,female,1404,kosovo,False
+22.0,6.0,"tirana, albania",albanian27,albanian,female,1706,albania,False
+19.0,6.0,"prishtina, kosovo",albanian28,albanian,male,4,kosovo,False
+33.0,15.0,"tirana, albania",albanian29,albanian,male,5,albania,False
+44.0,35.0,"tirana, albania",albanian30,albanian,male,458,albania,False
+33.0,28.0,"mitrovice, kosovo",albanian31,albanian,male,868,kosovo,False
+31.0,11.0,"vlore, albania",albanian32,albanian,male,946,albania,False
+25.0,11.0,"prishtina, kosovo",albanian33,albanian,female,1081,kosovo,False
+45.0,11.0,"prishtina, kosovo",albanian34,albanian,female,1403,kosovo,False
+43.0,9.0,"prishtina, kosovo",albanian35,albanian,female,1404,kosovo,False
+22.0,6.0,"tirana, albania",albanian36,albanian,female,1706,albania,False
+19.0,6.0,"prishtina, kosovo",albanian37,albanian,male,4,kosovo,False
+33.0,15.0,"tirana, albania",albanian38,albanian,male,5,albania,False
+44.0,35.0,"tirana, albania",albanian39,albanian,male,458,albania,False
+33.0,28.0,"mitrovice, kosovo",albanian40,albanian,male,868,kosovo,False
+31.0,11.0,"vlore, albania",albanian41,albanian,male,946,albania,False
+25.0,11.0,"prishtina, kosovo",albanian42,albanian,female,1081,kosovo,False
+45.0,11.0,"prishtina, kosovo",albanian43,albanian,female,1403,kosovo,False
+43.0,9.0,"prishtina, kosovo",albanian44,albanian,female,1404,kosovo,False
+22.0,6.0,"tirana, albania",albanian45,albanian,female,1706,albania,False
+19.0,6.0,"prishtina, kosovo",albanian46,albanian,male,4,kosovo,False
+33.0,15.0,"tirana, albania",albanian47,albanian,male,5,albania,False
+44.0,35.0,"tirana, albania",albanian48,albanian,male,458,albania,False
+33.0,28.0,"mitrovice, kosovo",albanian49,albanian,male,868,kosovo,False
+31.0,11.0,"vlore, albania",albanian50,albanian,male,946,albania,False
+39.0,37.0,"doboj, bosnia and herzegovina",bosnian10,bosnian,male,38,bosnia and herzegovina,False
+21.0,10.0,"sarajevo, bosnia and herzegovina",bosnian11,bosnian,male,39,bosnia and herzegovina,False
+25.0,12.0,"sarajevo, bosnia and herzegovina",bosnian12,bosnian,female,808,bosnia and herzegovina,False
+20.0,11.0,"travnik, bosnia and herzegovina",bosnian13,bosnian,male,943,bosnia and herzegovina,False
+25.0,6.0,"travnik, bosnia and herzegovina",bosnian14,bosnian,female,944,bosnia and herzegovina,False
+29.0,22.0,"zenica, bosnia and herzegovina",bosnian15,bosnian,female,1025,bosnia and herzegovina,False
+24.0,10.0,"gornji vakuf, bosnia and herzegovina",bosnian16,bosnian,female,1058,bosnia and herzegovina,False
+24.0,15.0,"sarajevo, bosnia and herzegovina",bosnian17,bosnian,female,1082,bosnia and herzegovina,False
+47.0,5.0,"sarajevo, bosnia and herzegovina",bosnian18,bosnian,male,1289,bosnia and herzegovina,False
+39.0,37.0,"doboj, bosnia and herzegovina",bosnian19,bosnian,male,38,bosnia and herzegovina,False
+21.0,10.0,"sarajevo, bosnia and herzegovina",bosnian20,bosnian,male,39,bosnia and herzegovina,False
+25.0,12.0,"sarajevo, bosnia and herzegovina",bosnian21,bosnian,female,808,bosnia and herzegovina,False
+20.0,11.0,"travnik, bosnia and herzegovina",bosnian22,bosnian,male,943,bosnia and herzegovina,False
+25.0,6.0,"travnik, bosnia and herzegovina",bosnian23,bosnian,female,944,bosnia and herzegovina,False
+29.0,22.0,"zenica, bosnia and herzegovina",bosnian24,bosnian,female,1025,bosnia and herzegovina,False
+24.0,10.0,"gornji vakuf, bosnia and herzegovina",bosnian25,bosnian,female,1058,bosnia and herzegovina,False
+24.0,15.0,"sarajevo, bosnia and herzegovina",bosnian26,bosnian,female,1082,bosnia and herzegovina,False
+47.0,5.0,"sarajevo, bosnia and herzegovina",bosnian27,bosnian,male,1289,bosnia and herzegovina,False
+39.0,37.0,"doboj, bosnia and herzegovina",bosnian28,bosnian,male,38,bosnia and herzegovina,False
+21.0,10.0,"sarajevo, bosnia and herzegovina",bosnian29,bosnian,male,39,bosnia and herzegovina,False
+25.0,12.0,"sarajevo, bosnia and herzegovina",bosnian30,bosnian,female,808,bosnia and herzegovina,False
+20.0,11.0,"travnik, bosnia and herzegovina",bosnian31,bosnian,male,943,bosnia and herzegovina,False
+25.0,6.0,"travnik, bosnia and herzegovina",bosnian32,bosnian,female,944,bosnia and herzegovina,False
+29.0,22.0,"zenica, bosnia and herzegovina",bosnian33,bosnian,female,1025,bosnia and herzegovina,False
+24.0,10.0,"gornji vakuf, bosnia and herzegovina",bosnian34,bosnian,female,1058,bosnia and herzegovina,False
+24.0,15.0,"sarajevo, bosnia and herzegovina",bosnian35,bosnian,female,1082,bosnia and herzegovina,False
+47.0,5.0,"sarajevo, bosnia and herzegovina",bosnian36,bosnian,male,1289,bosnia and herzegovina,False
+39.0,37.0,"doboj, bosnia and herzegovina",bosnian37,bosnian,male,38,bosnia and herzegovina,False
+21.0,10.0,"sarajevo, bosnia and herzegovina",bosnian38,bosnian,male,39,bosnia and herzegovina,False
+25.0,12.0,"sarajevo, bosnia and herzegovina",bosnian39,bosnian,female,808,bosnia and herzegovina,False
+20.0,11.0,"travnik, bosnia and herzegovina",bosnian40,bosnian,male,943,bosnia and herzegovina,False
+25.0,6.0,"travnik, bosnia and herzegovina",bosnian41,bosnian,female,944,bosnia and herzegovina,False
+29.0,22.0,"zenica, bosnia and herzegovina",bosnian42,bosnian,female,1025,bosnia and herzegovina,False
+24.0,10.0,"gornji vakuf, bosnia and herzegovina",bosnian43,bosnian,female,1058,bosnia and herzegovina,False
+24.0,15.0,"sarajevo, bosnia and herzegovina",bosnian44,bosnian,female,1082,bosnia and herzegovina,False
+47.0,5.0,"sarajevo, bosnia and herzegovina",bosnian45,bosnian,male,1289,bosnia and herzegovina,False
+39.0,37.0,"doboj, bosnia and herzegovina",bosnian46,bosnian,male,38,bosnia and herzegovina,False
+21.0,10.0,"sarajevo, bosnia and herzegovina",bosnian47,bosnian,male,39,bosnia and herzegovina,False
+25.0,12.0,"sarajevo, bosnia and herzegovina",bosnian48,bosnian,female,808,bosnia and herzegovina,False
+20.0,11.0,"travnik, bosnia and herzegovina",bosnian49,bosnian,male,943,bosnia and herzegovina,False
+25.0,6.0,"travnik, bosnia and herzegovina",bosnian50,bosnian,female,944,bosnia and herzegovina,False
+27.0,10.5,"prague, czech republic",czech10,czech,female,53,czech republic,False
+60.0,45.0,"velky osek, czech republic",czech11,czech,male,560,czech republic,False
+35.0,14.0,"nachod, czech republic",czech12,czech,male,653,czech republic,False
+57.0,15.0,"prague, czech republic",czech13,czech,female,879,czech republic,False
+26.0,16.0,"klando, czech republic",czech14,czech,female,1066,czech republic,False
+20.0,7.0,"ostrava, czech republic",czech15,czech,male,1248,czech republic,False
+22.0,11.0,"ostrava, czech republic",czech16,czech,female,1501,czech republic,False
+21.0,7.0,"pizen, czech republic",czech17,czech,female,1822,czech republic,False
+38.0,23.0,"prague, czech republic",czech18,czech,male,2140,czech republic,False
+27.0,10.5,"prague, czech republic",czech19,czech,female,53,czech republic,False
+60.0,45.0,"velky osek, czech republic",czech20,czech,male,560,czech republic,False
+35.0,14.0,"nachod, czech republic",czech21,czech,male,653,czech republic,False
+57.0,15.0,"prague, czech republic",czech22,czech,female,879,czech republic,False
+26.0,16.0,"klando, czech republic",czech23,czech,female,1066,czech republic,False
+20.0,7.0,"ostrava, czech republic",czech24,czech,male,1248,czech republic,False
+22.0,11.0,"ostrava, czech republic",czech25,czech,female,1501,czech republic,False
+21.0,7.0,"pizen, czech republic",czech26,czech,female,1822,czech republic,False
+38.0,23.0,"prague, czech republic",czech27,czech,male,2140,czech republic,False
+27.0,10.5,"prague, czech republic",czech28,czech,female,53,czech republic,False
+60.0,45.0,"velky osek, czech republic",czech29,czech,male,560,czech republic,False
+35.0,14.0,"nachod, czech republic",czech30,czech,male,653,czech republic,False
+57.0,15.0,"prague, czech republic",czech31,czech,female,879,czech republic,False
+26.0,16.0,"klando, czech republic",czech32,czech,female,1066,czech republic,False
+20.0,7.0,"ostrava, czech republic",czech33,czech,male,1248,czech republic,False
+22.0,11.0,"ostrava, czech republic",czech34,czech,female,1501,czech republic,False
+21.0,7.0,"pizen, czech republic",czech35,czech,female,1822,czech republic,False
+38.0,23.0,"prague, czech republic",czech36,czech,male,2140,czech republic,False
+27.0,10.5,"prague, czech republic",czech37,czech,female,53,czech republic,False
+60.0,45.0,"velky osek, czech republic",czech38,czech,male,560,czech republic,False
+35.0,14.0,"nachod, czech republic",czech39,czech,male,653,czech republic,False
+57.0,15.0,"prague, czech republic",czech40,czech,female,879,czech republic,False
+26.0,16.0,"klando, czech republic",czech41,czech,female,1066,czech republic,False
+20.0,7.0,"ostrava, czech republic",czech42,czech,male,1248,czech republic,False
+22.0,11.0,"ostrava, czech republic",czech43,czech,female,1501,czech republic,False
+21.0,7.0,"pizen, czech republic",czech44,czech,female,1822,czech republic,False
+38.0,23.0,"prague, czech republic",czech45,czech,male,2140,czech republic,False
+27.0,10.5,"prague, czech republic",czech46,czech,female,53,czech republic,False
+60.0,45.0,"velky osek, czech republic",czech47,czech,male,560,czech republic,False
+35.0,14.0,"nachod, czech republic",czech48,czech,male,653,czech republic,False
+57.0,15.0,"prague, czech republic",czech49,czech,female,879,czech republic,False
+26.0,16.0,"klando, czech republic",czech50,czech,female,1066,czech republic,False
+20.0,15.0,"ahmedabad, india",gujarati10,gujarati,male,198,india,False
+22.0,8.0,"bombay, india",gujarati11,gujarati,male,199,india,False
+28.0,2.0,"limerick, ireland",gujarati12,gujarati,female,200,ireland,False
+53.0,16.0,"ahmedabad, india",gujarati13,gujarati,female,610,india,False
+28.0,3.0,"bombay, india",gujarati14,gujarati,female,1016,india,False
+29.0,5.0,"kutch, gujarat, india",gujarati15,gujarati,male,1143,india,False
+40.0,4.0,"hyderabad, india",gujarati16,gujarati,female,1504,india,False
+27.0,7.0,"ahmedabad, india",gujarati17,gujarati,female,1678,india,False
+19.0,9.0,"surat, india",gujarati18,gujarati,male,2041,india,False
+20.0,15.0,"ahmedabad, india",gujarati19,gujarati,male,198,india,False
+22.0,8.0,"bombay, india",gujarati20,gujarati,male,199,india,False
+28.0,2.0,"limerick, ireland",gujarati21,gujarati,female,200,ireland,False
+53.0,16.0,"ahmedabad, india",gujarati22,gujarati,female,610,india,False
+28.0,3.0,"bombay, india",gujarati23,gujarati,female,1016,india,False
+29.0,5.0,"kutch, gujarat, india",gujarati24,gujarati,male,1143,india,False
+40.0,4.0,"hyderabad, india",gujarati25,gujarati,female,1504,india,False
+27.0,7.0,"ahmedabad, india",gujarati26,gujarati,female,1678,india,False
+19.0,9.0,"surat, india",gujarati27,gujarati,male,2041,india,False
+20.0,15.0,"ahmedabad, india",gujarati28,gujarati,male,198,india,False
+22.0,8.0,"bombay, india",gujarati29,gujarati,male,199,india,False
+28.0,2.0,"limerick, ireland",gujarati30,gujarati,female,200,ireland,False
+53.0,16.0,"ahmedabad, india",gujarati31,gujarati,female,610,india,False
+28.0,3.0,"bombay, india",gujarati32,gujarati,female,1016,india,False
+29.0,5.0,"kutch, gujarat, india",gujarati33,gujarati,male,1143,india,False
+40.0,4.0,"hyderabad, india",gujarati34,gujarati,female,1504,india,False
+27.0,7.0,"ahmedabad, india",gujarati35,gujarati,female,1678,india,False
+19.0,9.0,"surat, india",gujarati36,gujarati,male,2041,india,False
+20.0,15.0,"ahmedabad, india",gujarati37,gujarati,male,198,india,False
+22.0,8.0,"bombay, india",gujarati38,gujarati,male,199,india,False
+28.0,2.0,"limerick, ireland",gujarati39,gujarati,female,200,ireland,False
+53.0,16.0,"ahmedabad, india",gujarati40,gujarati,female,610,india,False
+28.0,3.0,"bombay, india",gujarati41,gujarati,female,1016,india,False
+29.0,5.0,"kutch, gujarat, india",gujarati42,gujarati,male,1143,india,False
+40.0,4.0,"hyderabad, india",gujarati43,gujarati,female,1504,india,False
+27.0,7.0,"ahmedabad, india",gujarati44,gujarati,female,1678,india,False
+19.0,9.0,"surat, india",gujarati45,gujarati,male,2041,india,False
+20.0,15.0,"ahmedabad, india",gujarati46,gujarati,male,198,india,False
+22.0,8.0,"bombay, india",gujarati47,gujarati,male,199,india,False
+28.0,2.0,"limerick, ireland",gujarati48,gujarati,female,200,ireland,False
+53.0,16.0,"ahmedabad, india",gujarati49,gujarati,female,610,india,False
+28.0,3.0,"bombay, india",gujarati50,gujarati,female,1016,india,False
+49.0,7.0,"kano, nigeria",hausa10,hausa,male,1034,nigeria,False
+46.0,10.0,"bauchi, nigeria",hausa11,hausa,male,1035,nigeria,False
+47.0,6.0,"malumfashi, nigeria",hausa12,hausa,female,1036,nigeria,False
+62.0,10.0,"kano, nigeria",hausa13,hausa,male,1039,nigeria,False
+43.0,12.0,"maine, niger",hausa14,hausa,female,1047,niger,False
+48.0,6.0,"kano, nigeria",hausa15,hausa,male,1048,nigeria,False
+52.0,7.0,"sokoto, nigeria",hausa16,hausa,male,1050,nigeria,False
+30.0,7.0,"katsina, nigeria",hausa17,hausa,male,1136,nigeria,False
+43.0,5.0,"kaltungo, gombe, nigeria",hausa18,hausa,male,1408,nigeria,False
+49.0,7.0,"kano, nigeria",hausa19,hausa,male,1034,nigeria,False
+46.0,10.0,"bauchi, nigeria",hausa20,hausa,male,1035,nigeria,False
+47.0,6.0,"malumfashi, nigeria",hausa21,hausa,female,1036,nigeria,False
+62.0,10.0,"kano, nigeria",hausa22,hausa,male,1039,nigeria,False
+43.0,12.0,"maine, niger",hausa23,hausa,female,1047,niger,False
+48.0,6.0,"kano, nigeria",hausa24,hausa,male,1048,nigeria,False
+52.0,7.0,"sokoto, nigeria",hausa25,hausa,male,1050,nigeria,False
+30.0,7.0,"katsina, nigeria",hausa26,hausa,male,1136,nigeria,False
+43.0,5.0,"kaltungo, gombe, nigeria",hausa27,hausa,male,1408,nigeria,False
+49.0,7.0,"kano, nigeria",hausa28,hausa,male,1034,nigeria,False
+46.0,10.0,"bauchi, nigeria",hausa29,hausa,male,1035,nigeria,False
+47.0,6.0,"malumfashi, nigeria",hausa30,hausa,female,1036,nigeria,False
+62.0,10.0,"kano, nigeria",hausa31,hausa,male,1039,nigeria,False
+43.0,12.0,"maine, niger",hausa32,hausa,female,1047,niger,False
+48.0,6.0,"kano, nigeria",hausa33,hausa,male,1048,nigeria,False
+52.0,7.0,"sokoto, nigeria",hausa34,hausa,male,1050,nigeria,False
+30.0,7.0,"katsina, nigeria",hausa35,hausa,male,1136,nigeria,False
+43.0,5.0,"kaltungo, gombe, nigeria",hausa36,hausa,male,1408,nigeria,False
+49.0,7.0,"kano, nigeria",hausa37,hausa,male,1034,nigeria,False
+46.0,10.0,"bauchi, nigeria",hausa38,hausa,male,1035,nigeria,False
+47.0,6.0,"malumfashi, nigeria",hausa39,hausa,female,1036,nigeria,False
+62.0,10.0,"kano, nigeria",hausa40,hausa,male,1039,nigeria,False
+43.0,12.0,"maine, niger",hausa41,hausa,female,1047,niger,False
+48.0,6.0,"kano, nigeria",hausa42,hausa,male,1048,nigeria,False
+52.0,7.0,"sokoto, nigeria",hausa43,hausa,male,1050,nigeria,False
+30.0,7.0,"katsina, nigeria",hausa44,hausa,male,1136,nigeria,False
+43.0,5.0,"kaltungo, gombe, nigeria",hausa45,hausa,male,1408,nigeria,False
+49.0,7.0,"kano, nigeria",hausa46,hausa,male,1034,nigeria,False
+46.0,10.0,"bauchi, nigeria",hausa47,hausa,male,1035,nigeria,False
+47.0,6.0,"malumfashi, nigeria",hausa48,hausa,female,1036,nigeria,False
+62.0,10.0,"kano, nigeria",hausa49,hausa,male,1039,nigeria,False
+43.0,12.0,"maine, niger",hausa50,hausa,female,1047,niger,False
+23.0,10.0,"yehud, israel",hebrew10,hebrew,male,202,israel,False
+24.0,10.0,"jerusalem, israel",hebrew11,hebrew,male,203,israel,False
+33.0,8.0,"haifa, israel",hebrew12,hebrew,male,204,israel,False
+20.0,9.0,"haifa, israel",hebrew13,hebrew,female,205,israel,False
+23.0,10.0,"netanya, israel",hebrew14,hebrew,male,206,israel,False
+33.0,9.0,"rishon, israel",hebrew15,hebrew,female,411,israel,False
+52.0,12.0,"jerusalem, israel",hebrew16,hebrew,male,941,israel,False
+28.0,7.0,"jerusalem, israel",hebrew17,hebrew,male,1074,israel,False
+23.0,4.0,"petah-tiqwa, israel",hebrew18,hebrew,male,1725,israel,False
+23.0,10.0,"yehud, israel",hebrew19,hebrew,male,202,israel,False
+24.0,10.0,"jerusalem, israel",hebrew20,hebrew,male,203,israel,False
+33.0,8.0,"haifa, israel",hebrew21,hebrew,male,204,israel,False
+20.0,9.0,"haifa, israel",hebrew22,hebrew,female,205,israel,False
+23.0,10.0,"netanya, israel",hebrew23,hebrew,male,206,israel,False
+33.0,9.0,"rishon, israel",hebrew24,hebrew,female,411,israel,False
+52.0,12.0,"jerusalem, israel",hebrew25,hebrew,male,941,israel,False
+28.0,7.0,"jerusalem, israel",hebrew26,hebrew,male,1074,israel,False
+23.0,4.0,"petah-tiqwa, israel",hebrew27,hebrew,male,1725,israel,False
+23.0,10.0,"yehud, israel",hebrew28,hebrew,male,202,israel,False
+24.0,10.0,"jerusalem, israel",hebrew29,hebrew,male,203,israel,False
+33.0,8.0,"haifa, israel",hebrew30,hebrew,male,204,israel,False
+20.0,9.0,"haifa, israel",hebrew31,hebrew,female,205,israel,False
+23.0,10.0,"netanya, israel",hebrew32,hebrew,male,206,israel,False
+33.0,9.0,"rishon, israel",hebrew33,hebrew,female,411,israel,False
+52.0,12.0,"jerusalem, israel",hebrew34,hebrew,male,941,israel,False
+28.0,7.0,"jerusalem, israel",hebrew35,hebrew,male,1074,israel,False
+23.0,4.0,"petah-tiqwa, israel",hebrew36,hebrew,male,1725,israel,False
+23.0,10.0,"yehud, israel",hebrew37,hebrew,male,202,israel,False
+24.0,10.0,"jerusalem, israel",hebrew38,hebrew,male,203,israel,False
+33.0,8.0,"haifa, israel",hebrew39,hebrew,male,204,israel,False
+20.0,9.0,"haifa, israel",hebrew40,hebrew,female,205,israel,False
+23.0,10.0,"netanya, israel",hebrew41,hebrew,male,206,israel,False
+33.0,9.0,"rishon, israel",hebrew42,hebrew,female,411,israel,False
+52.0,12.0,"jerusalem, israel",hebrew43,hebrew,male,941,israel,False
+28.0,7.0,"jerusalem, israel",hebrew44,hebrew,male,1074,israel,False
+23.0,4.0,"petah-tiqwa, israel",hebrew45,hebrew,male,1725,israel,False
+23.0,10.0,"yehud, israel",hebrew46,hebrew,male,202,israel,False
+24.0,10.0,"jerusalem, israel",hebrew47,hebrew,male,203,israel,False
+33.0,8.0,"haifa, israel",hebrew48,hebrew,male,204,israel,False
+20.0,9.0,"haifa, israel",hebrew49,hebrew,female,205,israel,False
+23.0,10.0,"netanya, israel",hebrew50,hebrew,male,206,israel,False
+22.5,20.0,"cegled, hungary",hungarian10,hungarian,female,209,hungary,False
+22.0,8.0,"clug, romania",hungarian11,hungarian,female,210,romania,False
+34.0,8.0,"brasov, romania",hungarian12,hungarian,male,211,romania,False
+26.0,5.0,"szeged, hungary",hungarian13,hungarian,male,594,hungary,False
+29.0,27.0,"budapest, hungary",hungarian14,hungarian,female,846,hungary,False
+38.0,14.0,"budapest, hungary",hungarian15,hungarian,female,880,hungary,False
+57.0,17.0,"budapest, hungary",hungarian16,hungarian,female,1139,hungary,False
+86.0,86.0,"pinkoc, hungary",hungarian17,hungarian,female,1298,hungary,False
+73.0,15.0,"budapest, hungary",hungarian18,hungarian,male,2018,hungary,False
+22.5,20.0,"cegled, hungary",hungarian19,hungarian,female,209,hungary,False
+22.0,8.0,"clug, romania",hungarian20,hungarian,female,210,romania,False
+34.0,8.0,"brasov, romania",hungarian21,hungarian,male,211,romania,False
+26.0,5.0,"szeged, hungary",hungarian22,hungarian,male,594,hungary,False
+29.0,27.0,"budapest, hungary",hungarian23,hungarian,female,846,hungary,False
+38.0,14.0,"budapest, hungary",hungarian24,hungarian,female,880,hungary,False
+57.0,17.0,"budapest, hungary",hungarian25,hungarian,female,1139,hungary,False
+86.0,86.0,"pinkoc, hungary",hungarian26,hungarian,female,1298,hungary,False
+73.0,15.0,"budapest, hungary",hungarian27,hungarian,male,2018,hungary,False
+22.5,20.0,"cegled, hungary",hungarian28,hungarian,female,209,hungary,False
+22.0,8.0,"clug, romania",hungarian29,hungarian,female,210,romania,False
+34.0,8.0,"brasov, romania",hungarian30,hungarian,male,211,romania,False
+26.0,5.0,"szeged, hungary",hungarian31,hungarian,male,594,hungary,False
+29.0,27.0,"budapest, hungary",hungarian32,hungarian,female,846,hungary,False
+38.0,14.0,"budapest, hungary",hungarian33,hungarian,female,880,hungary,False
+57.0,17.0,"budapest, hungary",hungarian34,hungarian,female,1139,hungary,False
+86.0,86.0,"pinkoc, hungary",hungarian35,hungarian,female,1298,hungary,False
+73.0,15.0,"budapest, hungary",hungarian36,hungarian,male,2018,hungary,False
+22.5,20.0,"cegled, hungary",hungarian37,hungarian,female,209,hungary,False
+22.0,8.0,"clug, romania",hungarian38,hungarian,female,210,romania,False
+34.0,8.0,"brasov, romania",hungarian39,hungarian,male,211,romania,False
+26.0,5.0,"szeged, hungary",hungarian40,hungarian,male,594,hungary,False
+29.0,27.0,"budapest, hungary",hungarian41,hungarian,female,846,hungary,False
+38.0,14.0,"budapest, hungary",hungarian42,hungarian,female,880,hungary,False
+57.0,17.0,"budapest, hungary",hungarian43,hungarian,female,1139,hungary,False
+86.0,86.0,"pinkoc, hungary",hungarian44,hungarian,female,1298,hungary,False
+73.0,15.0,"budapest, hungary",hungarian45,hungarian,male,2018,hungary,False
+22.5,20.0,"cegled, hungary",hungarian46,hungarian,female,209,hungary,False
+22.0,8.0,"clug, romania",hungarian47,hungarian,female,210,romania,False
+34.0,8.0,"brasov, romania",hungarian48,hungarian,male,211,romania,False
+26.0,5.0,"szeged, hungary",hungarian49,hungarian,male,594,hungary,False
+29.0,27.0,"budapest, hungary",hungarian50,hungarian,female,846,hungary,False
+22.0,6.0,"dar-es-salaam, tanzania",kiswahili10,kiswahili,male,234,tanzania,False
+28.0,16.0,"kigoma, tanzania",kiswahili11,kiswahili,male,235,tanzania,False
+29.0,6.0,"nairobi, kenya",kiswahili12,kiswahili,male,236,kenya,False
+36.0,34.0,"goma, north kivu, democratic republic of congo",kiswahili13,kiswahili,male,237,democratic republic of congo,False
+56.0,4.0,"tanga, tanzania",kiswahili14,kiswahili,female,877,tanzania,False
+32.0,8.0,"dar-es-salaam, tanzania",kiswahili15,kiswahili,female,887,tanzania,False
+52.0,5.0,"dar-es-salaam, tanzania",kiswahili16,kiswahili,female,934,tanzania,False
+42.0,3.0,"nyeri, kenya",kiswahili17,kiswahili,female,1041,kenya,False
+50.0,13.0,"tanga, tanzania",kiswahili18,kiswahili,male,1146,tanzania,False
+22.0,6.0,"dar-es-salaam, tanzania",kiswahili19,kiswahili,male,234,tanzania,False
+28.0,16.0,"kigoma, tanzania",kiswahili20,kiswahili,male,235,tanzania,False
+29.0,6.0,"nairobi, kenya",kiswahili21,kiswahili,male,236,kenya,False
+36.0,34.0,"goma, north kivu, democratic republic of congo",kiswahili22,kiswahili,male,237,democratic republic of congo,False
+56.0,4.0,"tanga, tanzania",kiswahili23,kiswahili,female,877,tanzania,False
+32.0,8.0,"dar-es-salaam, tanzania",kiswahili24,kiswahili,female,887,tanzania,False
+52.0,5.0,"dar-es-salaam, tanzania",kiswahili25,kiswahili,female,934,tanzania,False
+42.0,3.0,"nyeri, kenya",kiswahili26,kiswahili,female,1041,kenya,False
+50.0,13.0,"tanga, tanzania",kiswahili27,kiswahili,male,1146,tanzania,False
+22.0,6.0,"dar-es-salaam, tanzania",kiswahili28,kiswahili,male,234,tanzania,False
+28.0,16.0,"kigoma, tanzania",kiswahili29,kiswahili,male,235,tanzania,False
+29.0,6.0,"nairobi, kenya",kiswahili30,kiswahili,male,236,kenya,False
+36.0,34.0,"goma, north kivu, democratic republic of congo",kiswahili31,kiswahili,male,237,democratic republic of congo,False
+56.0,4.0,"tanga, tanzania",kiswahili32,kiswahili,female,877,tanzania,False
+32.0,8.0,"dar-es-salaam, tanzania",kiswahili33,kiswahili,female,887,tanzania,False
+52.0,5.0,"dar-es-salaam, tanzania",kiswahili34,kiswahili,female,934,tanzania,False
+42.0,3.0,"nyeri, kenya",kiswahili35,kiswahili,female,1041,kenya,False
+50.0,13.0,"tanga, tanzania",kiswahili36,kiswahili,male,1146,tanzania,False
+22.0,6.0,"dar-es-salaam, tanzania",kiswahili37,kiswahili,male,234,tanzania,False
+28.0,16.0,"kigoma, tanzania",kiswahili38,kiswahili,male,235,tanzania,False
+29.0,6.0,"nairobi, kenya",kiswahili39,kiswahili,male,236,kenya,False
+36.0,34.0,"goma, north kivu, democratic republic of congo",kiswahili40,kiswahili,male,237,democratic republic of congo,False
+56.0,4.0,"tanga, tanzania",kiswahili41,kiswahili,female,877,tanzania,False
+32.0,8.0,"dar-es-salaam, tanzania",kiswahili42,kiswahili,female,887,tanzania,False
+52.0,5.0,"dar-es-salaam, tanzania",kiswahili43,kiswahili,female,934,tanzania,False
+42.0,3.0,"nyeri, kenya",kiswahili44,kiswahili,female,1041,kenya,False
+50.0,13.0,"tanga, tanzania",kiswahili45,kiswahili,male,1146,tanzania,False
+22.0,6.0,"dar-es-salaam, tanzania",kiswahili46,kiswahili,male,234,tanzania,False
+28.0,16.0,"kigoma, tanzania",kiswahili47,kiswahili,male,235,tanzania,False
+29.0,6.0,"nairobi, kenya",kiswahili48,kiswahili,male,236,kenya,False
+36.0,34.0,"goma, north kivu, democratic republic of congo",kiswahili49,kiswahili,male,237,democratic republic of congo,False
+56.0,4.0,"tanga, tanzania",kiswahili50,kiswahili,female,877,tanzania,False
+18.0,15.0,"ulaanbaatar, mongolia",mongolian10,mongolian,female,267,mongolia,False
+22.0,17.0,"ulaanbaatar, mongolia",mongolian11,mongolian,male,268,mongolia,False
+38.0,10.0,"ulaanbaatar, mongolia",mongolian12,mongolian,male,762,mongolia,False
+19.0,15.0,"ulaanbaatar, mongolia",mongolian13,mongolian,male,1024,mongolia,False
+23.0,9.0,"sofia, bulgaria",mongolian14,mongolian,male,1135,bulgaria,False
+29.0,26.0,"sukhbaatar, mongolia",mongolian15,mongolian,female,1199,mongolia,False
+28.0,28.0,"darhan, mongolia",mongolian16,mongolian,female,1811,mongolia,False
+25.0,5.0,"jining, inner mongolia, china",mongolian17,mongolian,male,1842,china,False
+19.0,5.0,"yekaterinburg, russia",mongolian18,mongolian,male,1896,russia,False
+18.0,15.0,"ulaanbaatar, mongolia",mongolian19,mongolian,female,267,mongolia,False
+22.0,17.0,"ulaanbaatar, mongolia",mongolian20,mongolian,male,268,mongolia,False
+38.0,10.0,"ulaanbaatar, mongolia",mongolian21,mongolian,male,762,mongolia,False
+19.0,15.0,"ulaanbaatar, mongolia",mongolian22,mongolian,male,1024,mongolia,False
+23.0,9.0,"sofia, bulgaria",mongolian23,mongolian,male,1135,bulgaria,False
+29.0,26.0,"sukhbaatar, mongolia",mongolian24,mongolian,female,1199,mongolia,False
+28.0,28.0,"darhan, mongolia",mongolian25,mongolian,female,1811,mongolia,False
+25.0,5.0,"jining, inner mongolia, china",mongolian26,mongolian,male,1842,china,False
+19.0,5.0,"yekaterinburg, russia",mongolian27,mongolian,male,1896,russia,False
+18.0,15.0,"ulaanbaatar, mongolia",mongolian28,mongolian,female,267,mongolia,False
+22.0,17.0,"ulaanbaatar, mongolia",mongolian29,mongolian,male,268,mongolia,False
+38.0,10.0,"ulaanbaatar, mongolia",mongolian30,mongolian,male,762,mongolia,False
+19.0,15.0,"ulaanbaatar, mongolia",mongolian31,mongolian,male,1024,mongolia,False
+23.0,9.0,"sofia, bulgaria",mongolian32,mongolian,male,1135,bulgaria,False
+29.0,26.0,"sukhbaatar, mongolia",mongolian33,mongolian,female,1199,mongolia,False
+28.0,28.0,"darhan, mongolia",mongolian34,mongolian,female,1811,mongolia,False
+25.0,5.0,"jining, inner mongolia, china",mongolian35,mongolian,male,1842,china,False
+19.0,5.0,"yekaterinburg, russia",mongolian36,mongolian,male,1896,russia,False
+18.0,15.0,"ulaanbaatar, mongolia",mongolian37,mongolian,female,267,mongolia,False
+22.0,17.0,"ulaanbaatar, mongolia",mongolian38,mongolian,male,268,mongolia,False
+38.0,10.0,"ulaanbaatar, mongolia",mongolian39,mongolian,male,762,mongolia,False
+19.0,15.0,"ulaanbaatar, mongolia",mongolian40,mongolian,male,1024,mongolia,False
+23.0,9.0,"sofia, bulgaria",mongolian41,mongolian,male,1135,bulgaria,False
+29.0,26.0,"sukhbaatar, mongolia",mongolian42,mongolian,female,1199,mongolia,False
+28.0,28.0,"darhan, mongolia",mongolian43,mongolian,female,1811,mongolia,False
+25.0,5.0,"jining, inner mongolia, china",mongolian44,mongolian,male,1842,china,False
+19.0,5.0,"yekaterinburg, russia",mongolian45,mongolian,male,1896,russia,False
+18.0,15.0,"ulaanbaatar, mongolia",mongolian46,mongolian,female,267,mongolia,False
+22.0,17.0,"ulaanbaatar, mongolia",mongolian47,mongolian,male,268,mongolia,False
+38.0,10.0,"ulaanbaatar, mongolia",mongolian48,mongolian,male,762,mongolia,False
+19.0,15.0,"ulaanbaatar, mongolia",mongolian49,mongolian,male,1024,mongolia,False
+23.0,9.0,"sofia, bulgaria",mongolian50,mongolian,male,1135,bulgaria,False
+24.0,15.0,"arbil, iraq",kurdish11,kurdish,male,246,iraq,False
+37.0,30.0,"sulaymaniyah, iraq",kurdish12,kurdish,male,1767,iraq,False
+50.0,10.0,"hawler, kurdistan, iraq",kurdish13,kurdish,male,669,iraq,False
+33.0,12.0,"sulaymaniyah, iraq",kurdish14,kurdish,female,809,iraq,False
+30.0,9.0,"kirkuk, iraq",kurdish15,kurdish,male,1098,iraq,False
+32.0,11.0,"sulaymaniyah, iraq",kurdish16,kurdish,male,1180,iraq,False
+57.0,11.0,"sulaymaniyah, iraq",kurdish17,kurdish,female,1197,iraq,False
+29.0,13.0,"sanandaj, iran",kurdish18,kurdish,male,1318,iran,False
+55.0,39.0,"sulaymaniyah, iraq",kurdish19,kurdish,female,1731,iraq,False
+57.0,40.0,"sulaymaniyah, iraq",kurdish20,kurdish,male,1766,iraq,False
+24.0,15.0,"arbil, iraq",kurdish21,kurdish,male,246,iraq,False
+37.0,30.0,"sulaymaniyah, iraq",kurdish22,kurdish,male,1767,iraq,False
+50.0,10.0,"hawler, kurdistan, iraq",kurdish23,kurdish,male,669,iraq,False
+33.0,12.0,"sulaymaniyah, iraq",kurdish24,kurdish,female,809,iraq,False
+30.0,9.0,"kirkuk, iraq",kurdish25,kurdish,male,1098,iraq,False
+32.0,11.0,"sulaymaniyah, iraq",kurdish26,kurdish,male,1180,iraq,False
+57.0,11.0,"sulaymaniyah, iraq",kurdish27,kurdish,female,1197,iraq,False
+29.0,13.0,"sanandaj, iran",kurdish28,kurdish,male,1318,iran,False
+55.0,39.0,"sulaymaniyah, iraq",kurdish29,kurdish,female,1731,iraq,False
+57.0,40.0,"sulaymaniyah, iraq",kurdish30,kurdish,male,1766,iraq,False
+24.0,15.0,"arbil, iraq",kurdish31,kurdish,male,246,iraq,False
+37.0,30.0,"sulaymaniyah, iraq",kurdish32,kurdish,male,1767,iraq,False
+50.0,10.0,"hawler, kurdistan, iraq",kurdish33,kurdish,male,669,iraq,False
+33.0,12.0,"sulaymaniyah, iraq",kurdish34,kurdish,female,809,iraq,False
+30.0,9.0,"kirkuk, iraq",kurdish35,kurdish,male,1098,iraq,False
+32.0,11.0,"sulaymaniyah, iraq",kurdish36,kurdish,male,1180,iraq,False
+57.0,11.0,"sulaymaniyah, iraq",kurdish37,kurdish,female,1197,iraq,False
+29.0,13.0,"sanandaj, iran",kurdish38,kurdish,male,1318,iran,False
+55.0,39.0,"sulaymaniyah, iraq",kurdish39,kurdish,female,1731,iraq,False
+57.0,40.0,"sulaymaniyah, iraq",kurdish40,kurdish,male,1766,iraq,False
+24.0,15.0,"arbil, iraq",kurdish41,kurdish,male,246,iraq,False
+37.0,30.0,"sulaymaniyah, iraq",kurdish42,kurdish,male,1767,iraq,False
+50.0,10.0,"hawler, kurdistan, iraq",kurdish43,kurdish,male,669,iraq,False
+33.0,12.0,"sulaymaniyah, iraq",kurdish44,kurdish,female,809,iraq,False
+30.0,9.0,"kirkuk, iraq",kurdish45,kurdish,male,1098,iraq,False
+32.0,11.0,"sulaymaniyah, iraq",kurdish46,kurdish,male,1180,iraq,False
+57.0,11.0,"sulaymaniyah, iraq",kurdish47,kurdish,female,1197,iraq,False
+29.0,13.0,"sanandaj, iran",kurdish48,kurdish,male,1318,iran,False
+55.0,39.0,"sulaymaniyah, iraq",kurdish49,kurdish,female,1731,iraq,False
+57.0,40.0,"sulaymaniyah, iraq",kurdish50,kurdish,male,1766,iraq,False
+47.0,12.0,"kabul, kandahar, afghanistan",pashto11,pashto,female,696,afghanistan,False
+26.0,5.0,"mansehra, pakistan",pashto12,pashto,female,1919,pakistan,False
+26.0,26.0,"kabul, kandahar, afghanistan",pashto13,pashto,female,792,afghanistan,False
+36.0,7.0,"kandahar, afghanistan",pashto14,pashto,female,963,afghanistan,False
+18.0,6.0,"peshawar, pakistan",pashto15,pashto,female,1010,pakistan,False
+52.0,22.0,"kandahar, afghanistan",pashto16,pashto,female,1355,afghanistan,False
+59.0,17.0,"kandahar, afghanistan",pashto17,pashto,male,1356,afghanistan,False
+42.0,20.0,"kabul, afghanistan",pashto18,pashto,female,1357,afghanistan,False
+39.0,17.0,"paktia, afghanistan",pashto19,pashto,male,1714,afghanistan,False
+56.0,18.0,"kabul, afghanistan",pashto20,pashto,male,1820,afghanistan,False
+47.0,12.0,"kabul, kandahar, afghanistan",pashto21,pashto,female,696,afghanistan,False
+26.0,5.0,"mansehra, pakistan",pashto22,pashto,female,1919,pakistan,False
+26.0,26.0,"kabul, kandahar, afghanistan",pashto23,pashto,female,792,afghanistan,False
+36.0,7.0,"kandahar, afghanistan",pashto24,pashto,female,963,afghanistan,False
+18.0,6.0,"peshawar, pakistan",pashto25,pashto,female,1010,pakistan,False
+52.0,22.0,"kandahar, afghanistan",pashto26,pashto,female,1355,afghanistan,False
+59.0,17.0,"kandahar, afghanistan",pashto27,pashto,male,1356,afghanistan,False
+42.0,20.0,"kabul, afghanistan",pashto28,pashto,female,1357,afghanistan,False
+39.0,17.0,"paktia, afghanistan",pashto29,pashto,male,1714,afghanistan,False
+56.0,18.0,"kabul, afghanistan",pashto30,pashto,male,1820,afghanistan,False
+47.0,12.0,"kabul, kandahar, afghanistan",pashto31,pashto,female,696,afghanistan,False
+26.0,5.0,"mansehra, pakistan",pashto32,pashto,female,1919,pakistan,False
+26.0,26.0,"kabul, kandahar, afghanistan",pashto33,pashto,female,792,afghanistan,False
+36.0,7.0,"kandahar, afghanistan",pashto34,pashto,female,963,afghanistan,False
+18.0,6.0,"peshawar, pakistan",pashto35,pashto,female,1010,pakistan,False
+52.0,22.0,"kandahar, afghanistan",pashto36,pashto,female,1355,afghanistan,False
+59.0,17.0,"kandahar, afghanistan",pashto37,pashto,male,1356,afghanistan,False
+42.0,20.0,"kabul, afghanistan",pashto38,pashto,female,1357,afghanistan,False
+39.0,17.0,"paktia, afghanistan",pashto39,pashto,male,1714,afghanistan,False
+56.0,18.0,"kabul, afghanistan",pashto40,pashto,male,1820,afghanistan,False
+47.0,12.0,"kabul, kandahar, afghanistan",pashto41,pashto,female,696,afghanistan,False
+26.0,5.0,"mansehra, pakistan",pashto42,pashto,female,1919,pakistan,False
+26.0,26.0,"kabul, kandahar, afghanistan",pashto43,pashto,female,792,afghanistan,False
+36.0,7.0,"kandahar, afghanistan",pashto44,pashto,female,963,afghanistan,False
+18.0,6.0,"peshawar, pakistan",pashto45,pashto,female,1010,pakistan,False
+52.0,22.0,"kandahar, afghanistan",pashto46,pashto,female,1355,afghanistan,False
+59.0,17.0,"kandahar, afghanistan",pashto47,pashto,male,1356,afghanistan,False
+42.0,20.0,"kabul, afghanistan",pashto48,pashto,female,1357,afghanistan,False
+39.0,17.0,"paktia, afghanistan",pashto49,pashto,male,1714,afghanistan,False
+56.0,18.0,"kabul, afghanistan",pashto50,pashto,male,1820,afghanistan,False
+34.0,10.0,"sargodha, pakistan",punjabi11,punjabi,male,291,pakistan,False
+22.0,11.0,"ludhiana, india",punjabi12,punjabi,male,2040,india,False
+26.0,10.0,"hoshiarpur, india",punjabi13,punjabi,male,292,india,False
+19.0,6.0,"moga, punjab, india",punjabi14,punjabi,male,751,india,False
+33.0,3.0,"moga, india",punjabi15,punjabi,female,836,india,False
+49.0,5.0,"ropar, punjab, india",punjabi16,punjabi,male,1612,india,False
+25.0,5.0,"lahore, pakistan",punjabi17,punjabi,male,1758,pakistan,False
+22.0,5.0,"lahore, pakistan",punjabi18,punjabi,male,1759,pakistan,False
+44.0,13.0,"jilandhar, punjab, india",punjabi19,punjabi,male,1782,india,False
+19.0,11.0,"kot kapura, india",punjabi20,punjabi,male,2039,india,False
+34.0,10.0,"sargodha, pakistan",punjabi21,punjabi,male,291,pakistan,False
+22.0,11.0,"ludhiana, india",punjabi22,punjabi,male,2040,india,False
+26.0,10.0,"hoshiarpur, india",punjabi23,punjabi,male,292,india,False
+19.0,6.0,"moga, punjab, india",punjabi24,punjabi,male,751,india,False
+33.0,3.0,"moga, india",punjabi25,punjabi,female,836,india,False
+49.0,5.0,"ropar, punjab, india",punjabi26,punjabi,male,1612,india,False
+25.0,5.0,"lahore, pakistan",punjabi27,punjabi,male,1758,pakistan,False
+22.0,5.0,"lahore, pakistan",punjabi28,punjabi,male,1759,pakistan,False
+44.0,13.0,"jilandhar, punjab, india",punjabi29,punjabi,male,1782,india,False
+19.0,11.0,"kot kapura, india",punjabi30,punjabi,male,2039,india,False
+34.0,10.0,"sargodha, pakistan",punjabi31,punjabi,male,291,pakistan,False
+22.0,11.0,"ludhiana, india",punjabi32,punjabi,male,2040,india,False
+26.0,10.0,"hoshiarpur, india",punjabi33,punjabi,male,292,india,False
+19.0,6.0,"moga, punjab, india",punjabi34,punjabi,male,751,india,False
+33.0,3.0,"moga, india",punjabi35,punjabi,female,836,india,False
+49.0,5.0,"ropar, punjab, india",punjabi36,punjabi,male,1612,india,False
+25.0,5.0,"lahore, pakistan",punjabi37,punjabi,male,1758,pakistan,False
+22.0,5.0,"lahore, pakistan",punjabi38,punjabi,male,1759,pakistan,False
+44.0,13.0,"jilandhar, punjab, india",punjabi39,punjabi,male,1782,india,False
+19.0,11.0,"kot kapura, india",punjabi40,punjabi,male,2039,india,False
+34.0,10.0,"sargodha, pakistan",punjabi41,punjabi,male,291,pakistan,False
+22.0,11.0,"ludhiana, india",punjabi42,punjabi,male,2040,india,False
+26.0,10.0,"hoshiarpur, india",punjabi43,punjabi,male,292,india,False
+19.0,6.0,"moga, punjab, india",punjabi44,punjabi,male,751,india,False
+33.0,3.0,"moga, india",punjabi45,punjabi,female,836,india,False
+49.0,5.0,"ropar, punjab, india",punjabi46,punjabi,male,1612,india,False
+25.0,5.0,"lahore, pakistan",punjabi47,punjabi,male,1758,pakistan,False
+22.0,5.0,"lahore, pakistan",punjabi48,punjabi,male,1759,pakistan,False
+44.0,13.0,"jilandhar, punjab, india",punjabi49,punjabi,male,1782,india,False
+19.0,11.0,"kot kapura, india",punjabi50,punjabi,male,2039,india,False
+18.0,8.0,"krinkrin, rio coco, nicaragua",miskito12,miskito,male,2067,nicaragua,False
+18.0,13.0,"kum, rio coco, nicaragua",miskito13,miskito,male,2090,nicaragua,False
+18.0,11.0,"bilwi, puerto cabezas, nicaragua",miskito14,miskito,female,2093,nicaragua,False
+18.0,7.0,"bilwi, puerto cabezas, nicaragua",miskito15,miskito,female,2068,nicaragua,False
+32.0,14.0,"bilwi, puerto cabezas, nicaragua",miskito16,miskito,male,2069,nicaragua,False
+18.0,15.0,"bilwi, puerto cabezas, nicaragua",miskito17,miskito,male,2070,nicaragua,False
+18.0,7.0,"bilwi, puerto cabezas, nicaragua",miskito18,miskito,female,2071,nicaragua,False
+19.0,12.0,"bilwi, puerto cabezas, nicaragua",miskito19,miskito,male,2082,nicaragua,False
+20.0,15.0,"bilwi, puerto cabezas, nicaragua",miskito20,miskito,male,2083,nicaragua,False
+18.0,12.0,"walakitang, rio coco, nicaragua",miskito21,miskito,male,2088,nicaragua,False
+40.0,38.0,"bilwi, puerto cabezas, nicaragua",miskito22,miskito,male,2089,nicaragua,False
+18.0,8.0,"krinkrin, rio coco, nicaragua",miskito23,miskito,male,2067,nicaragua,False
+18.0,13.0,"kum, rio coco, nicaragua",miskito24,miskito,male,2090,nicaragua,False
+18.0,11.0,"bilwi, puerto cabezas, nicaragua",miskito25,miskito,female,2093,nicaragua,False
+18.0,7.0,"bilwi, puerto cabezas, nicaragua",miskito26,miskito,female,2068,nicaragua,False
+32.0,14.0,"bilwi, puerto cabezas, nicaragua",miskito27,miskito,male,2069,nicaragua,False
+18.0,15.0,"bilwi, puerto cabezas, nicaragua",miskito28,miskito,male,2070,nicaragua,False
+18.0,7.0,"bilwi, puerto cabezas, nicaragua",miskito29,miskito,female,2071,nicaragua,False
+19.0,12.0,"bilwi, puerto cabezas, nicaragua",miskito30,miskito,male,2082,nicaragua,False
+20.0,15.0,"bilwi, puerto cabezas, nicaragua",miskito31,miskito,male,2083,nicaragua,False
+18.0,12.0,"walakitang, rio coco, nicaragua",miskito32,miskito,male,2088,nicaragua,False
+40.0,38.0,"bilwi, puerto cabezas, nicaragua",miskito33,miskito,male,2089,nicaragua,False
+18.0,8.0,"krinkrin, rio coco, nicaragua",miskito34,miskito,male,2067,nicaragua,False
+18.0,13.0,"kum, rio coco, nicaragua",miskito35,miskito,male,2090,nicaragua,False
+18.0,11.0,"bilwi, puerto cabezas, nicaragua",miskito36,miskito,female,2093,nicaragua,False
+18.0,7.0,"bilwi, puerto cabezas, nicaragua",miskito37,miskito,female,2068,nicaragua,False
+32.0,14.0,"bilwi, puerto cabezas, nicaragua",miskito38,miskito,male,2069,nicaragua,False
+18.0,15.0,"bilwi, puerto cabezas, nicaragua",miskito39,miskito,male,2070,nicaragua,False
+18.0,7.0,"bilwi, puerto cabezas, nicaragua",miskito40,miskito,female,2071,nicaragua,False
+19.0,12.0,"bilwi, puerto cabezas, nicaragua",miskito41,miskito,male,2082,nicaragua,False
+20.0,15.0,"bilwi, puerto cabezas, nicaragua",miskito42,miskito,male,2083,nicaragua,False
+18.0,12.0,"walakitang, rio coco, nicaragua",miskito43,miskito,male,2088,nicaragua,False
+40.0,38.0,"bilwi, puerto cabezas, nicaragua",miskito44,miskito,male,2089,nicaragua,False
+18.0,8.0,"krinkrin, rio coco, nicaragua",miskito45,miskito,male,2067,nicaragua,False
+18.0,13.0,"kum, rio coco, nicaragua",miskito46,miskito,male,2090,nicaragua,False
+18.0,11.0,"bilwi, puerto cabezas, nicaragua",miskito47,miskito,female,2093,nicaragua,False
+18.0,7.0,"bilwi, puerto cabezas, nicaragua",miskito48,miskito,female,2068,nicaragua,False
+32.0,14.0,"bilwi, puerto cabezas, nicaragua",miskito49,miskito,male,2069,nicaragua,False
+18.0,15.0,"bilwi, puerto cabezas, nicaragua",miskito50,miskito,male,2070,nicaragua,False
+26.0,17.0,"kyiv, ukraine",ukrainian12,ukrainian,male,649,ukraine,False
+25.0,7.0,"lvivska oblast, ukraine",ukrainian13,ukrainian,female,1852,ukraine,False
+23.0,9.0,"odessa, ukraine",ukrainian14,ukrainian,female,1999,ukraine,False
+53.0,44.0,"akhtyrka, ukraine",ukrainian15,ukrainian,female,844,ukraine,False
+55.0,12.0,"odessa, ukraine",ukrainian16,ukrainian,female,864,ukraine,False
+18.0,8.0,"kiev, ukraine",ukrainian17,ukrainian,male,940,ukraine,False
+18.0,10.0,"kiev, ukraine",ukrainian18,ukrainian,male,955,ukraine,False
+22.0,11.0,"priluki, ukraine",ukrainian19,ukrainian,female,1056,ukraine,False
+18.0,8.0,"kiev, ukraine",ukrainian20,ukrainian,male,1091,ukraine,False
+23.0,17.0,"luhansk, ukraine",ukrainian21,ukrainian,male,1379,ukraine,False
+30.0,20.0,"zaporizhzhya, ukraine",ukrainian22,ukrainian,male,1520,ukraine,False
+26.0,17.0,"kyiv, ukraine",ukrainian23,ukrainian,male,649,ukraine,False
+25.0,7.0,"lvivska oblast, ukraine",ukrainian24,ukrainian,female,1852,ukraine,False
+23.0,9.0,"odessa, ukraine",ukrainian25,ukrainian,female,1999,ukraine,False
+53.0,44.0,"akhtyrka, ukraine",ukrainian26,ukrainian,female,844,ukraine,False
+55.0,12.0,"odessa, ukraine",ukrainian27,ukrainian,female,864,ukraine,False
+18.0,8.0,"kiev, ukraine",ukrainian28,ukrainian,male,940,ukraine,False
+18.0,10.0,"kiev, ukraine",ukrainian29,ukrainian,male,955,ukraine,False
+22.0,11.0,"priluki, ukraine",ukrainian30,ukrainian,female,1056,ukraine,False
+18.0,8.0,"kiev, ukraine",ukrainian31,ukrainian,male,1091,ukraine,False
+23.0,17.0,"luhansk, ukraine",ukrainian32,ukrainian,male,1379,ukraine,False
+30.0,20.0,"zaporizhzhya, ukraine",ukrainian33,ukrainian,male,1520,ukraine,False
+26.0,17.0,"kyiv, ukraine",ukrainian34,ukrainian,male,649,ukraine,False
+25.0,7.0,"lvivska oblast, ukraine",ukrainian35,ukrainian,female,1852,ukraine,False
+23.0,9.0,"odessa, ukraine",ukrainian36,ukrainian,female,1999,ukraine,False
+53.0,44.0,"akhtyrka, ukraine",ukrainian37,ukrainian,female,844,ukraine,False
+55.0,12.0,"odessa, ukraine",ukrainian38,ukrainian,female,864,ukraine,False
+18.0,8.0,"kiev, ukraine",ukrainian39,ukrainian,male,940,ukraine,False
+18.0,10.0,"kiev, ukraine",ukrainian40,ukrainian,male,955,ukraine,False
+22.0,11.0,"priluki, ukraine",ukrainian41,ukrainian,female,1056,ukraine,False
+18.0,8.0,"kiev, ukraine",ukrainian42,ukrainian,male,1091,ukraine,False
+23.0,17.0,"luhansk, ukraine",ukrainian43,ukrainian,male,1379,ukraine,False
+30.0,20.0,"zaporizhzhya, ukraine",ukrainian44,ukrainian,male,1520,ukraine,False
+26.0,17.0,"kyiv, ukraine",ukrainian45,ukrainian,male,649,ukraine,False
+25.0,7.0,"lvivska oblast, ukraine",ukrainian46,ukrainian,female,1852,ukraine,False
+23.0,9.0,"odessa, ukraine",ukrainian47,ukrainian,female,1999,ukraine,False
+53.0,44.0,"akhtyrka, ukraine",ukrainian48,ukrainian,female,844,ukraine,False
+55.0,12.0,"odessa, ukraine",ukrainian49,ukrainian,female,864,ukraine,False
+18.0,8.0,"kiev, ukraine",ukrainian50,ukrainian,male,940,ukraine,False
+22.0,5.0,"katmandu, nepal",nepali14,nepali,female,271,nepal,False
+23.0,3.0,"katmandu, nepal",nepali15,nepali,female,1770,nepal,False
+24.0,20.0,"katmandu, nepal",nepali16,nepali,female,1865,nepal,False
+26.0,6.0,"katmandu, nepal",nepali17,nepali,female,1978,nepal,False
+25.0,5.0,"katmandu, nepal",nepali18,nepali,female,2021,nepal,False
+37.0,14.0,"katmandu, nepal",nepali19,nepali,female,757,nepal,False
+36.0,4.0,"dharan, nepal",nepali20,nepali,male,807,nepal,False
+25.0,5.0,"pokhara, nepal",nepali21,nepali,male,830,nepal,False
+39.0,9.0,"chisapani, nepal",nepali22,nepali,male,1495,nepal,False
+24.0,6.0,"bhadrapur, nepal",nepali23,nepali,male,1499,nepal,False
+19.0,7.0,"chitwan, nepal",nepali24,nepali,male,1513,nepal,False
+20.0,5.0,"pokhara, nepal",nepali25,nepali,male,1514,nepal,False
+36.0,10.0,"baglung, nepal",nepali26,nepali,male,1761,nepal,False
+22.0,5.0,"katmandu, nepal",nepali27,nepali,female,271,nepal,False
+23.0,3.0,"katmandu, nepal",nepali28,nepali,female,1770,nepal,False
+24.0,20.0,"katmandu, nepal",nepali29,nepali,female,1865,nepal,False
+26.0,6.0,"katmandu, nepal",nepali30,nepali,female,1978,nepal,False
+25.0,5.0,"katmandu, nepal",nepali31,nepali,female,2021,nepal,False
+37.0,14.0,"katmandu, nepal",nepali32,nepali,female,757,nepal,False
+36.0,4.0,"dharan, nepal",nepali33,nepali,male,807,nepal,False
+25.0,5.0,"pokhara, nepal",nepali34,nepali,male,830,nepal,False
+39.0,9.0,"chisapani, nepal",nepali35,nepali,male,1495,nepal,False
+24.0,6.0,"bhadrapur, nepal",nepali36,nepali,male,1499,nepal,False
+19.0,7.0,"chitwan, nepal",nepali37,nepali,male,1513,nepal,False
+20.0,5.0,"pokhara, nepal",nepali38,nepali,male,1514,nepal,False
+36.0,10.0,"baglung, nepal",nepali39,nepali,male,1761,nepal,False
+22.0,5.0,"katmandu, nepal",nepali40,nepali,female,271,nepal,False
+23.0,3.0,"katmandu, nepal",nepali41,nepali,female,1770,nepal,False
+24.0,20.0,"katmandu, nepal",nepali42,nepali,female,1865,nepal,False
+26.0,6.0,"katmandu, nepal",nepali43,nepali,female,1978,nepal,False
+25.0,5.0,"katmandu, nepal",nepali44,nepali,female,2021,nepal,False
+37.0,14.0,"katmandu, nepal",nepali45,nepali,female,757,nepal,False
+36.0,4.0,"dharan, nepal",nepali46,nepali,male,807,nepal,False
+25.0,5.0,"pokhara, nepal",nepali47,nepali,male,830,nepal,False
+39.0,9.0,"chisapani, nepal",nepali48,nepali,male,1495,nepal,False
+24.0,6.0,"bhadrapur, nepal",nepali49,nepali,male,1499,nepal,False
+19.0,7.0,"chitwan, nepal",nepali50,nepali,male,1513,nepal,False
+19.0,9.0,"athens, greece",greek16,greek,male,195,greece,False
+58.0,14.0,"nicosia, cyprus",greek17,greek,male,1620,cyprus,False
+21.0,3.0,"athens, greece",greek18,greek,female,1634,greece,False
+24.0,4.0,"bethlehem, pennsylvania, usa",greek19,greek,male,1712,usa,False
+23.0,6.0,"vlore, albania",greek20,greek,female,1804,albania,False
+22.0,3.0,"lancaster, pennsylvania, usa",greek21,greek,female,1816,usa,False
+81.0,8.0,"jerusalem, israel",greek22,greek,female,1839,israel,False
+26.0,9.0,"athens, greece",greek23,greek,female,196,greece,False
+37.0,15.0,"karprenici, greece",greek24,greek,female,197,greece,False
+37.0,7.0,"ioannina, greece",greek25,greek,male,570,greece,False
+51.0,25.0,"nicosia, cyprus",greek26,greek,male,621,cyprus,False
+62.0,12.0,"igoumenitsa, greece",greek27,greek,female,813,greece,False
+18.0,4.0,"athens, greece",greek28,greek,male,1102,greece,False
+37.0,3.0,"athens, greece",greek29,greek,male,1415,greece,False
+23.0,6.0,"athens, greece",greek30,greek,female,1418,greece,False
+19.0,9.0,"athens, greece",greek31,greek,male,195,greece,False
+58.0,14.0,"nicosia, cyprus",greek32,greek,male,1620,cyprus,False
+21.0,3.0,"athens, greece",greek33,greek,female,1634,greece,False
+24.0,4.0,"bethlehem, pennsylvania, usa",greek34,greek,male,1712,usa,False
+23.0,6.0,"vlore, albania",greek35,greek,female,1804,albania,False
+22.0,3.0,"lancaster, pennsylvania, usa",greek36,greek,female,1816,usa,False
+81.0,8.0,"jerusalem, israel",greek37,greek,female,1839,israel,False
+26.0,9.0,"athens, greece",greek38,greek,female,196,greece,False
+37.0,15.0,"karprenici, greece",greek39,greek,female,197,greece,False
+37.0,7.0,"ioannina, greece",greek40,greek,male,570,greece,False
+51.0,25.0,"nicosia, cyprus",greek41,greek,male,621,cyprus,False
+62.0,12.0,"igoumenitsa, greece",greek42,greek,female,813,greece,False
+18.0,4.0,"athens, greece",greek43,greek,male,1102,greece,False
+37.0,3.0,"athens, greece",greek44,greek,male,1415,greece,False
+23.0,6.0,"athens, greece",greek45,greek,female,1418,greece,False
+19.0,9.0,"athens, greece",greek46,greek,male,195,greece,False
+58.0,14.0,"nicosia, cyprus",greek47,greek,male,1620,cyprus,False
+21.0,3.0,"athens, greece",greek48,greek,female,1634,greece,False
+24.0,4.0,"bethlehem, pennsylvania, usa",greek49,greek,male,1712,usa,False
+23.0,6.0,"vlore, albania",greek50,greek,female,1804,albania,False
+25.0,10.0,"khon kaen, thailand",thai16,thai,female,371,thailand,False
+30.0,6.0,"bangkok, thailand",thai17,thai,male,1488,thailand,False
+18.0,13.0,"bang na, thailand",thai18,thai,male,1673,thailand,False
+33.0,8.0,"bangkok, thailand",thai19,thai,male,1721,thailand,False
+69.0,7.0,"nakhon si thammarat, thailand",thai20,thai,female,1829,thailand,False
+39.0,10.0,"bangkok, thailand",thai21,thai,female,2066,thailand,False
+19.0,7.0,"bangkok, thailand",thai22,thai,female,2131,thailand,False
+20.0,10.0,"chiang mai, thailand",thai23,thai,male,372,thailand,False
+22.0,4.0,"bangkok, thailand",thai24,thai,male,373,thailand,False
+23.0,7.0,"songkhla, thailand",thai25,thai,female,448,thailand,False
+25.0,10.0,"bangkok, thailand",thai26,thai,male,612,thailand,False
+27.0,11.0,"sukhothai, thailand",thai27,thai,male,698,thailand,False
+26.0,10.0,"phrae, thailand",thai28,thai,female,898,thailand,False
+37.0,25.0,"bangkok, thailand",thai29,thai,male,1055,thailand,False
+18.0,6.0,"bangkok, thailand",thai30,thai,female,1103,thailand,False
+25.0,10.0,"khon kaen, thailand",thai31,thai,female,371,thailand,False
+30.0,6.0,"bangkok, thailand",thai32,thai,male,1488,thailand,False
+18.0,13.0,"bang na, thailand",thai33,thai,male,1673,thailand,False
+33.0,8.0,"bangkok, thailand",thai34,thai,male,1721,thailand,False
+69.0,7.0,"nakhon si thammarat, thailand",thai35,thai,female,1829,thailand,False
+39.0,10.0,"bangkok, thailand",thai36,thai,female,2066,thailand,False
+19.0,7.0,"bangkok, thailand",thai37,thai,female,2131,thailand,False
+20.0,10.0,"chiang mai, thailand",thai38,thai,male,372,thailand,False
+22.0,4.0,"bangkok, thailand",thai39,thai,male,373,thailand,False
+23.0,7.0,"songkhla, thailand",thai40,thai,female,448,thailand,False
+25.0,10.0,"bangkok, thailand",thai41,thai,male,612,thailand,False
+27.0,11.0,"sukhothai, thailand",thai42,thai,male,698,thailand,False
+26.0,10.0,"phrae, thailand",thai43,thai,female,898,thailand,False
+37.0,25.0,"bangkok, thailand",thai44,thai,male,1055,thailand,False
+18.0,6.0,"bangkok, thailand",thai45,thai,female,1103,thailand,False
+25.0,10.0,"khon kaen, thailand",thai46,thai,female,371,thailand,False
+30.0,6.0,"bangkok, thailand",thai47,thai,male,1488,thailand,False
+18.0,13.0,"bang na, thailand",thai48,thai,male,1673,thailand,False
+33.0,8.0,"bangkok, thailand",thai49,thai,male,1721,thailand,False
+69.0,7.0,"nakhon si thammarat, thailand",thai50,thai,female,1829,thailand,False
+22.0,18.0,"karachi, pakistan",urdu17,urdu,male,390,pakistan,False
+20.0,3.0,"karachi, pakistan",urdu18,urdu,male,1566,pakistan,False
+20.0,6.0,"karachi, pakistan",urdu19,urdu,male,1576,pakistan,False
+19.0,4.0,"islamabad, pakistan",urdu20,urdu,female,1628,pakistan,False
+22.0,4.0,"lahore, pakistan",urdu21,urdu,female,1795,pakistan,False
+21.0,10.0,"islamabad, pakistan",urdu22,urdu,male,2038,pakistan,False
+28.0,8.0,"mandi bahauddin, punjab, pakistan",urdu23,urdu,male,2102,pakistan,False
+22.0,5.0,"karachi, pakistan",urdu24,urdu,male,2152,pakistan,False
+48.0,6.0,"sialkot, pakistan",urdu25,urdu,female,391,pakistan,False
+25.0,3.0,"karachi, sind, pakistan",urdu26,urdu,male,423,pakistan,False
+29.0,4.0,"kuwait city, kuwait",urdu27,urdu,male,854,kuwait,False
+23.0,12.0,"karachi, pakistan",urdu28,urdu,male,953,pakistan,False
+24.0,3.0,"bangalore, india",urdu29,urdu,female,1014,india,False
+23.0,5.0,"islamabad, pakistan",urdu30,urdu,male,1061,pakistan,False
+21.0,5.0,"abu dhabi, united arab emirates",urdu31,urdu,female,1510,united arab emirates,False
+20.0,5.0,"alexandria, virginia, usa",urdu32,urdu,female,1539,usa,False
+22.0,18.0,"karachi, pakistan",urdu33,urdu,male,390,pakistan,False
+20.0,3.0,"karachi, pakistan",urdu34,urdu,male,1566,pakistan,False
+20.0,6.0,"karachi, pakistan",urdu35,urdu,male,1576,pakistan,False
+19.0,4.0,"islamabad, pakistan",urdu36,urdu,female,1628,pakistan,False
+22.0,4.0,"lahore, pakistan",urdu37,urdu,female,1795,pakistan,False
+21.0,10.0,"islamabad, pakistan",urdu38,urdu,male,2038,pakistan,False
+28.0,8.0,"mandi bahauddin, punjab, pakistan",urdu39,urdu,male,2102,pakistan,False
+22.0,5.0,"karachi, pakistan",urdu40,urdu,male,2152,pakistan,False
+48.0,6.0,"sialkot, pakistan",urdu41,urdu,female,391,pakistan,False
+25.0,3.0,"karachi, sind, pakistan",urdu42,urdu,male,423,pakistan,False
+29.0,4.0,"kuwait city, kuwait",urdu43,urdu,male,854,kuwait,False
+23.0,12.0,"karachi, pakistan",urdu44,urdu,male,953,pakistan,False
+24.0,3.0,"bangalore, india",urdu45,urdu,female,1014,india,False
+23.0,5.0,"islamabad, pakistan",urdu46,urdu,male,1061,pakistan,False
+21.0,5.0,"abu dhabi, united arab emirates",urdu47,urdu,female,1510,united arab emirates,False
+20.0,5.0,"alexandria, virginia, usa",urdu48,urdu,female,1539,usa,False
+22.0,18.0,"karachi, pakistan",urdu49,urdu,male,390,pakistan,False
+20.0,3.0,"karachi, pakistan",urdu50,urdu,male,1566,pakistan,False
+23.0,16.0,"dhaka, bangladesh",bengali18,bengali,male,34,bangladesh,False
+18.0,3.0,"dhaka, bangladesh",bengali19,bengali,female,1009,bangladesh,False
+34.0,3.5,"durgapur, west bengal, india",bengali20,bengali,male,1018,india,False
+25.0,4.0,"sylhet, bangladesh",bengali21,bengali,female,1682,bangladesh,False
+33.0,10.0,"dhaka, bangladesh",bengali22,bengali,female,1825,bangladesh,False
+26.0,4.0,"kolkata, india",bengali23,bengali,male,1973,india,False
+46.0,8.0,"dhaka, bangladesh",bengali24,bengali,female,2004,bangladesh,False
+24.0,6.0,"dhaka, bangladesh",bengali25,bengali,female,2073,bangladesh,False
+19.0,6.0,"sylhet, bangladesh",bengali26,bengali,female,2139,bangladesh,False
+25.0,2.0,"lusaka, zambia",bengali27,bengali,female,35,zambia,False
+19.0,5.0,"dhaka, bangladesh",bengali28,bengali,female,36,bangladesh,False
+24.0,6.0,"chittagong, bangladesh",bengali29,bengali,male,37,bangladesh,False
+40.0,5.0,"dhaka, bangladesh",bengali30,bengali,female,622,bangladesh,False
+29.0,4.0,"jamshedpur, jharkhand, india",bengali31,bengali,male,624,india,False
+49.0,6.0,"mymensingh, bangladesh",bengali32,bengali,male,710,bangladesh,False
+54.0,5.0,"noakhali, bangladesh",bengali33,bengali,male,709,bangladesh,False
+61.0,12.0,"kolkata, india",bengali34,bengali,female,987,india,False
+23.0,16.0,"dhaka, bangladesh",bengali35,bengali,male,34,bangladesh,False
+18.0,3.0,"dhaka, bangladesh",bengali36,bengali,female,1009,bangladesh,False
+34.0,3.5,"durgapur, west bengal, india",bengali37,bengali,male,1018,india,False
+25.0,4.0,"sylhet, bangladesh",bengali38,bengali,female,1682,bangladesh,False
+33.0,10.0,"dhaka, bangladesh",bengali39,bengali,female,1825,bangladesh,False
+26.0,4.0,"kolkata, india",bengali40,bengali,male,1973,india,False
+46.0,8.0,"dhaka, bangladesh",bengali41,bengali,female,2004,bangladesh,False
+24.0,6.0,"dhaka, bangladesh",bengali42,bengali,female,2073,bangladesh,False
+19.0,6.0,"sylhet, bangladesh",bengali43,bengali,female,2139,bangladesh,False
+25.0,2.0,"lusaka, zambia",bengali44,bengali,female,35,zambia,False
+19.0,5.0,"dhaka, bangladesh",bengali45,bengali,female,36,bangladesh,False
+24.0,6.0,"chittagong, bangladesh",bengali46,bengali,male,37,bangladesh,False
+40.0,5.0,"dhaka, bangladesh",bengali47,bengali,female,622,bangladesh,False
+29.0,4.0,"jamshedpur, jharkhand, india",bengali48,bengali,male,624,india,False
+49.0,6.0,"mymensingh, bangladesh",bengali49,bengali,male,710,bangladesh,False
+54.0,5.0,"noakhali, bangladesh",bengali50,bengali,male,709,bangladesh,False
+25.0,16.0,"plovdiv, bulgaria",bulgarian19,bulgarian,female,40,bulgaria,False
+21.0,15.0,"dobrich, bulgaria",bulgarian20,bulgarian,female,965,bulgaria,False
+24.0,16.0,"dobrich, bulgaria",bulgarian21,bulgarian,male,966,bulgaria,False
+30.0,9.0,"sofia, bulgaria",bulgarian22,bulgarian,female,1446,bulgaria,False
+20.0,9.0,"chirpan, bulgaria",bulgarian23,bulgarian,male,1512,bulgaria,False
+46.0,30.0,"sofia, bulgaria",bulgarian24,bulgarian,male,1611,bulgaria,False
+22.0,10.0,"varna, bulgaria",bulgarian25,bulgarian,male,1859,bulgaria,False
+21.0,6.0,"kyustendil, bulgaria",bulgarian26,bulgarian,male,1880,bulgaria,False
+31.0,9.0,"sofia, bulgaria",bulgarian27,bulgarian,female,1915,bulgaria,False
+20.0,10.0,"razlog, bulgaria",bulgarian28,bulgarian,male,2024,bulgaria,False
+53.0,42.0,"sofia, bulgaria",bulgarian29,bulgarian,female,41,bulgaria,False
+27.0,10.0,"sofia, bulgaria",bulgarian30,bulgarian,male,42,bulgaria,False
+22.0,20.0,"plovdiv, bulgaria",bulgarian31,bulgarian,male,43,bulgaria,False
+23.0,14.0,"sofia, bulgaria",bulgarian32,bulgarian,male,44,bulgaria,False
+27.0,11.0,"ruse, bulgaria",bulgarian33,bulgarian,male,557,bulgaria,False
+18.0,13.0,"stara zagora, bulgaria",bulgarian34,bulgarian,male,566,bulgaria,False
+31.0,8.0,"sofia, bulgaria",bulgarian35,bulgarian,female,848,bulgaria,False
+31.0,10.0,"ruse, bulgaria",bulgarian36,bulgarian,female,923,bulgaria,False
+25.0,16.0,"plovdiv, bulgaria",bulgarian37,bulgarian,female,40,bulgaria,False
+21.0,15.0,"dobrich, bulgaria",bulgarian38,bulgarian,female,965,bulgaria,False
+24.0,16.0,"dobrich, bulgaria",bulgarian39,bulgarian,male,966,bulgaria,False
+30.0,9.0,"sofia, bulgaria",bulgarian40,bulgarian,female,1446,bulgaria,False
+20.0,9.0,"chirpan, bulgaria",bulgarian41,bulgarian,male,1512,bulgaria,False
+46.0,30.0,"sofia, bulgaria",bulgarian42,bulgarian,male,1611,bulgaria,False
+22.0,10.0,"varna, bulgaria",bulgarian43,bulgarian,male,1859,bulgaria,False
+21.0,6.0,"kyustendil, bulgaria",bulgarian44,bulgarian,male,1880,bulgaria,False
+31.0,9.0,"sofia, bulgaria",bulgarian45,bulgarian,female,1915,bulgaria,False
+20.0,10.0,"razlog, bulgaria",bulgarian46,bulgarian,male,2024,bulgaria,False
+53.0,42.0,"sofia, bulgaria",bulgarian47,bulgarian,female,41,bulgaria,False
+27.0,10.0,"sofia, bulgaria",bulgarian48,bulgarian,male,42,bulgaria,False
+22.0,20.0,"plovdiv, bulgaria",bulgarian49,bulgarian,male,43,bulgaria,False
+23.0,14.0,"sofia, bulgaria",bulgarian50,bulgarian,male,44,bulgaria,False
+27.0,2.0,"nagpur, maharashtra, india",hindi19,hindi,male,207,india,False
+19.0,10.5,"new delhi, india",hindi20,hindi,female,1202,india,False
+20.0,4.0,"chandigarh, india",hindi21,hindi,male,1437,india,False
+25.0,4.0,"allahabad, india",hindi22,hindi,female,1440,india,False
+43.0,13.0,"jaipur, india",hindi23,hindi,female,1633,india,False
+53.0,12.0,"new delhi, india",hindi24,hindi,male,1697,india,False
+23.0,1.0,"new delhi, india",hindi25,hindi,female,1794,india,False
+25.0,5.0,"new delhi, india",hindi26,hindi,male,1966,india,False
+47.0,3.0,"new delhi, india",hindi27,hindi,female,1988,india,False
+21.0,5.0,"new delhi, india",hindi28,hindi,female,2125,india,False
+31.0,3.0,"hyderabad, india",hindi29,hindi,male,587,india,False
+42.0,5.0,"jalandhar, india",hindi30,hindi,male,593,india,False
+28.0,14.0,"bhilwara, rajisthan, india",hindi31,hindi,female,765,india,False
+64.0,10.0,"hubballi, karnataka, india",hindi32,hindi,female,845,india,False
+27.0,4.0,"new delhi, india",hindi33,hindi,female,866,india,False
+60.0,5.0,"allahabad, utter pardesh, india",hindi34,hindi,female,867,india,False
+19.0,8.0,"imphal, india",hindi35,hindi,male,910,india,False
+31.0,4.0,"durgapur, west bengal, india",hindi36,hindi,male,1017,india,False
+27.0,2.0,"nagpur, maharashtra, india",hindi37,hindi,male,207,india,False
+19.0,10.5,"new delhi, india",hindi38,hindi,female,1202,india,False
+20.0,4.0,"chandigarh, india",hindi39,hindi,male,1437,india,False
+25.0,4.0,"allahabad, india",hindi40,hindi,female,1440,india,False
+43.0,13.0,"jaipur, india",hindi41,hindi,female,1633,india,False
+53.0,12.0,"new delhi, india",hindi42,hindi,male,1697,india,False
+23.0,1.0,"new delhi, india",hindi43,hindi,female,1794,india,False
+25.0,5.0,"new delhi, india",hindi44,hindi,male,1966,india,False
+47.0,3.0,"new delhi, india",hindi45,hindi,female,1988,india,False
+21.0,5.0,"new delhi, india",hindi46,hindi,female,2125,india,False
+31.0,3.0,"hyderabad, india",hindi47,hindi,male,587,india,False
+42.0,5.0,"jalandhar, india",hindi48,hindi,male,593,india,False
+28.0,14.0,"bhilwara, rajisthan, india",hindi49,hindi,female,765,india,False
+64.0,10.0,"hubballi, karnataka, india",hindi50,hindi,female,845,india,False
+47.0,47.0,"bosanska krupa, bosnia",serbian19,serbian,female,314,bosnia,False
+25.0,7.0,"belgrade, serbia",serbian20,serbian,male,727,serbia,False
+26.0,14.0,"belgrade, serbia",serbian21,serbian,male,744,serbia,False
+25.0,11.0,"vranje, serbia",serbian22,serbian,female,894,serbia,False
+25.0,11.0,"teslic, bosnia and herzegovina",serbian23,serbian,female,945,bosnia and herzegovina,False
+26.0,20.0,"podgorica, montenegro",serbian24,serbian,female,988,montenegro,False
+26.0,15.0,"tuzla, bosnia and herzegovina",serbian25,serbian,female,1079,bosnia and herzegovina,False
+33.0,9.0,"belgrade, serbia",serbian26,serbian,male,1157,serbia,False
+29.0,10.0,"belgrade, serbia",serbian27,serbian,female,1283,serbia,False
+22.0,11.0,"belgrade, serbia",serbian28,serbian,male,1542,serbia,False
+36.0,15.0,"zrenjanin, serbia, yugoslavia",serbian29,serbian,male,315,yugoslavia,False
+25.0,7.0,"belgrade, serbia",serbian30,serbian,male,530,serbia,False
+27.0,15.0,"velika plana, serbia",serbian31,serbian,male,704,serbia,False
+35.0,6.0,"belgrade, serbia",serbian32,serbian,male,722,serbia,False
+33.0,12.0,"kraljevo, serbia",serbian33,serbian,male,723,serbia,False
+31.0,7.0,"belgrade, serbia",serbian34,serbian,female,724,serbia,False
+44.0,20.0,"kraljevo, serbia",serbian35,serbian,male,726,serbia,False
+31.0,9.0,"kragujevac, serbia",serbian36,serbian,female,725,serbia,False
+47.0,47.0,"bosanska krupa, bosnia",serbian37,serbian,female,314,bosnia,False
+25.0,7.0,"belgrade, serbia",serbian38,serbian,male,727,serbia,False
+26.0,14.0,"belgrade, serbia",serbian39,serbian,male,744,serbia,False
+25.0,11.0,"vranje, serbia",serbian40,serbian,female,894,serbia,False
+25.0,11.0,"teslic, bosnia and herzegovina",serbian41,serbian,female,945,bosnia and herzegovina,False
+26.0,20.0,"podgorica, montenegro",serbian42,serbian,female,988,montenegro,False
+26.0,15.0,"tuzla, bosnia and herzegovina",serbian43,serbian,female,1079,bosnia and herzegovina,False
+33.0,9.0,"belgrade, serbia",serbian44,serbian,male,1157,serbia,False
+29.0,10.0,"belgrade, serbia",serbian45,serbian,female,1283,serbia,False
+22.0,11.0,"belgrade, serbia",serbian46,serbian,male,1542,serbia,False
+36.0,15.0,"zrenjanin, serbia, yugoslavia",serbian47,serbian,male,315,yugoslavia,False
+25.0,7.0,"belgrade, serbia",serbian48,serbian,male,530,serbia,False
+27.0,15.0,"velika plana, serbia",serbian49,serbian,male,704,serbia,False
+35.0,6.0,"belgrade, serbia",serbian50,serbian,male,722,serbia,False
+18.0,10.0,"manila, philippines",tagalog19,tagalog,male,359,philippines,False
+39.0,6.0,"manila, philippines",tagalog20,tagalog,female,1812,philippines,False
+59.0,11.0,"manila, philippines",tagalog21,tagalog,female,1837,philippines,False
+33.0,5.0,"legaspi, philippines",tagalog22,tagalog,female,1851,philippines,False
+76.0,7.0,"manila, philippines",tagalog23,tagalog,female,1954,philippines,False
+47.0,17.0,"legaspi, philippines",tagalog24,tagalog,female,2002,philippines,False
+35.0,1.0,"manila, philippines",tagalog25,tagalog,female,2108,philippines,False
+20.0,4.5,"san pedro laguna, philippines",tagalog26,tagalog,male,2128,philippines,False
+21.0,6.0,"alexandria, virginia, usa",tagalog27,tagalog,male,2146,usa,False
+77.0,8.0,"manila, philippines",tagalog28,tagalog,female,2147,philippines,False
+21.0,7.0,"urdaneta, luzon, philippines",tagalog29,tagalog,female,360,philippines,False
+19.0,1.0,"honiara, guadalcanal, solomon islands",tagalog30,tagalog,female,361,solomon islands,False
+48.0,7.0,"san fernando, la union, philippines",tagalog31,tagalog,female,470,philippines,False
+42.0,5.0,"tarlac city, philippines",tagalog32,tagalog,female,677,philippines,False
+20.0,4.0,"quezon city, philippines",tagalog33,tagalog,male,805,philippines,False
+60.0,6.0,"manila, philippines",tagalog34,tagalog,male,1364,philippines,False
+62.0,7.0,"cabanatuan city, philippines",tagalog35,tagalog,female,1627,philippines,False
+48.0,7.0,"manila, philippines",tagalog36,tagalog,male,1764,philippines,False
+18.0,10.0,"manila, philippines",tagalog37,tagalog,male,359,philippines,False
+39.0,6.0,"manila, philippines",tagalog38,tagalog,female,1812,philippines,False
+59.0,11.0,"manila, philippines",tagalog39,tagalog,female,1837,philippines,False
+33.0,5.0,"legaspi, philippines",tagalog40,tagalog,female,1851,philippines,False
+76.0,7.0,"manila, philippines",tagalog41,tagalog,female,1954,philippines,False
+47.0,17.0,"legaspi, philippines",tagalog42,tagalog,female,2002,philippines,False
+35.0,1.0,"manila, philippines",tagalog43,tagalog,female,2108,philippines,False
+20.0,4.5,"san pedro laguna, philippines",tagalog44,tagalog,male,2128,philippines,False
+21.0,6.0,"alexandria, virginia, usa",tagalog45,tagalog,male,2146,usa,False
+77.0,8.0,"manila, philippines",tagalog46,tagalog,female,2147,philippines,False
+21.0,7.0,"urdaneta, luzon, philippines",tagalog47,tagalog,female,360,philippines,False
+19.0,1.0,"honiara, guadalcanal, solomon islands",tagalog48,tagalog,female,361,solomon islands,False
+48.0,7.0,"san fernando, la union, philippines",tagalog49,tagalog,female,470,philippines,False
+42.0,5.0,"tarlac city, philippines",tagalog50,tagalog,female,677,philippines,False
+20.0,5.0,"addis ababa, ethiopia",amharic21,amharic,female,6,ethiopia,False
+29.0,19.0,"gonder, ethiopia",amharic22,amharic,female,998,ethiopia,False
+24.0,17.0,"addis ababa, ethiopia",amharic23,amharic,female,1129,ethiopia,False
+26.0,15.0,"addis ababa, ethiopia",amharic24,amharic,female,1130,ethiopia,False
+28.0,6.0,"addis ababa, ethiopia",amharic25,amharic,female,1131,ethiopia,False
+31.0,12.0,"addis ababa, ethiopia",amharic26,amharic,male,1515,ethiopia,False
+23.0,6.0,"addis ababa, ethiopia",amharic27,amharic,male,1516,ethiopia,False
+36.0,11.0,"werder, ethiopia",amharic28,amharic,male,1854,ethiopia,False
+21.0,9.0,"addis ababa, ethiopia",amharic29,amharic,male,1906,ethiopia,False
+20.0,2.0,"addis ababa, ethiopia",amharic30,amharic,female,2017,ethiopia,False
+19.0,10.0,"tefki, ethiopia",amharic31,amharic,female,2132,ethiopia,False
+23.0,7.0,"arba minch, ethiopia",amharic32,amharic,male,7,ethiopia,False
+52.0,24.0,"addis ababa, ethiopia",amharic33,amharic,female,2135,ethiopia,False
+27.0,8.0,"addis ababa, ethiopia",amharic34,amharic,male,8,ethiopia,False
+20.0,7.0,"addis ababa, ethiopia",amharic35,amharic,male,9,ethiopia,False
+31.0,7.0,"addis ababa, ethiopia",amharic36,amharic,male,10,ethiopia,False
+31.0,4.0,"addis ababa, ethiopia",amharic37,amharic,female,985,ethiopia,False
+38.0,13.0,"addis ababa, ethiopia",amharic38,amharic,male,989,ethiopia,False
+30.0,12.0,"addis ababa, ethiopia",amharic39,amharic,female,990,ethiopia,False
+40.0,12.0,"addis ababa, ethiopia",amharic40,amharic,male,991,ethiopia,False
+20.0,5.0,"addis ababa, ethiopia",amharic41,amharic,female,6,ethiopia,False
+29.0,19.0,"gonder, ethiopia",amharic42,amharic,female,998,ethiopia,False
+24.0,17.0,"addis ababa, ethiopia",amharic43,amharic,female,1129,ethiopia,False
+26.0,15.0,"addis ababa, ethiopia",amharic44,amharic,female,1130,ethiopia,False
+28.0,6.0,"addis ababa, ethiopia",amharic45,amharic,female,1131,ethiopia,False
+31.0,12.0,"addis ababa, ethiopia",amharic46,amharic,male,1515,ethiopia,False
+23.0,6.0,"addis ababa, ethiopia",amharic47,amharic,male,1516,ethiopia,False
+36.0,11.0,"werder, ethiopia",amharic48,amharic,male,1854,ethiopia,False
+21.0,9.0,"addis ababa, ethiopia",amharic49,amharic,male,1906,ethiopia,False
+20.0,2.0,"addis ababa, ethiopia",amharic50,amharic,female,2017,ethiopia,False
+24.0,12.0,"timisoara, romania",romanian21,romanian,male,295,romania,False
+27.0,11.0,"bucharest, romania",romanian22,romanian,female,692,romania,False
+39.0,14.0,"buzau, romania",romanian23,romanian,male,693,romania,False
+38.0,12.0,"chisinau, moldova",romanian24,romanian,female,865,moldova,False
+46.0,12.0,"babadag, romanian",romanian25,romanian,male,930,romanian,False
+25.0,13.0,"costesti, moldova",romanian26,romanian,female,973,moldova,False
+27.0,8.0,"bucharest, romania",romanian27,romanian,female,980,romania,False
+25.0,9.0,"bucharest, romania",romanian28,romanian,female,996,romania,False
+55.0,48.0,"chisinau, moldova",romanian29,romanian,female,1099,moldova,False
+43.0,28.0,"solotvino, ukraine",romanian30,romanian,female,1448,ukraine,False
+19.0,8.0,"chisinau, moldova",romanian31,romanian,male,1557,moldova,False
+62.0,14.0,"bucharest, romania",romanian32,romanian,male,296,romania,False
+34.0,19.0,"bucharest, romania",romanian33,romanian,female,1599,romania,False
+50.0,32.0,"birtem, romania",romanian34,romanian,male,297,romania,False
+35.0,32.0,"bucharest, romania",romanian35,romanian,female,298,romania,False
+47.0,12.0,"bucharest, romania",romanian36,romanian,female,688,romania,False
+35.0,12.0,"bucharest, romania",romanian37,romanian,male,689,romania,False
+33.0,11.0,"bucharest, romania",romanian38,romanian,male,694,romania,False
+47.0,12.0,"bucharest, romania",romanian39,romanian,male,690,romania,False
+28.0,10.0,"bacau, romania",romanian40,romanian,female,691,romania,False
+24.0,12.0,"timisoara, romania",romanian41,romanian,male,295,romania,False
+27.0,11.0,"bucharest, romania",romanian42,romanian,female,692,romania,False
+39.0,14.0,"buzau, romania",romanian43,romanian,male,693,romania,False
+38.0,12.0,"chisinau, moldova",romanian44,romanian,female,865,moldova,False
+46.0,12.0,"babadag, romanian",romanian45,romanian,male,930,romanian,False
+25.0,13.0,"costesti, moldova",romanian46,romanian,female,973,moldova,False
+27.0,8.0,"bucharest, romania",romanian47,romanian,female,980,romania,False
+25.0,9.0,"bucharest, romania",romanian48,romanian,female,996,romania,False
+55.0,48.0,"chisinau, moldova",romanian49,romanian,female,1099,moldova,False
+43.0,28.0,"solotvino, ukraine",romanian50,romanian,female,1448,ukraine,False
+56.0,11.0,"solna, sweden",swedish21,swedish,female,351,sweden,False
+19.0,9.0,"lidkoping, sweden",swedish22,swedish,female,1065,sweden,False
+36.0,10.0,"espoo, finland",swedish23,swedish,female,1195,finland,False
+23.0,7.0,"malmo, sweden",swedish24,swedish,male,1441,sweden,False
+28.0,10.0,"umea, sweden",swedish25,swedish,female,1445,sweden,False
+23.0,9.0,"vetlanda, sweden",swedish26,swedish,male,1752,sweden,False
+22.0,12.0,"stokholm, sweden",swedish27,swedish,male,1824,sweden,False
+39.0,11.0,"goteborg, sweden",swedish28,swedish,female,1836,sweden,False
+20.0,8.0,"farjestaden, sweden",swedish29,swedish,female,1861,sweden,False
+42.0,8.0,"lulea, sweden",swedish30,swedish,male,1992,sweden,False
+50.0,12.0,"ekenas, finland",swedish31,swedish,male,2011,finland,False
+20.0,10.0,"uppsala, sweden",swedish32,swedish,male,352,sweden,False
+31.0,7.0,"karlstad, sweden",swedish33,swedish,male,2065,sweden,False
+24.0,10.0,"stockholm, sweden",swedish34,swedish,male,353,sweden,False
+22.0,10.0,"lulea, sweden",swedish35,swedish,male,354,sweden,False
+18.0,13.0,"goteborg, sweden",swedish36,swedish,male,454,sweden,False
+26.0,7.0,"goteborg, sweden",swedish37,swedish,male,620,sweden,False
+21.0,11.0,"sollentuna, sweden",swedish38,swedish,female,630,sweden,False
+22.0,10.0,"helsinki, finland",swedish39,swedish,female,701,finland,False
+20.0,10.0,"uddevalla, sweden",swedish40,swedish,male,1027,sweden,False
+56.0,11.0,"solna, sweden",swedish41,swedish,female,351,sweden,False
+19.0,9.0,"lidkoping, sweden",swedish42,swedish,female,1065,sweden,False
+36.0,10.0,"espoo, finland",swedish43,swedish,female,1195,finland,False
+23.0,7.0,"malmo, sweden",swedish44,swedish,male,1441,sweden,False
+28.0,10.0,"umea, sweden",swedish45,swedish,female,1445,sweden,False
+23.0,9.0,"vetlanda, sweden",swedish46,swedish,male,1752,sweden,False
+22.0,12.0,"stokholm, sweden",swedish47,swedish,male,1824,sweden,False
+39.0,11.0,"goteborg, sweden",swedish48,swedish,female,1836,sweden,False
+20.0,8.0,"farjestaden, sweden",swedish49,swedish,female,1861,sweden,False
+42.0,8.0,"lulea, sweden",swedish50,swedish,male,1992,sweden,False
+29.0,12.0,"can tho, vietnam",vietnamese23,vietnamese,male,395,vietnam,False
+57.0,18.0,"quang nam, vietnam",vietnamese24,vietnamese,female,1192,vietnam,False
+67.0,15.0,"quang nam, vietnam",vietnamese25,vietnamese,male,1201,vietnam,False
+24.0,9.0,"can tho, vietnam",vietnamese26,vietnamese,female,1529,vietnam,False
+23.0,6.0,"hanoi, vietnam",vietnamese27,vietnamese,male,1562,vietnam,False
+51.0,20.0,"ho chi minh city, vietnam",vietnamese28,vietnamese,male,1698,vietnam,False
+29.0,15.0,"ho chi minh city, vietnam",vietnamese29,vietnamese,male,1809,vietnam,False
+52.0,17.0,"long xuyen, vietnam",vietnamese30,vietnamese,male,1850,vietnam,False
+33.0,11.0,"ho chi minh city, vietnam",vietnamese31,vietnamese,female,1940,vietnam,False
+19.0,11.0,"saigon, vietnam",vietnamese32,vietnamese,female,2010,vietnam,False
+18.0,4.0,"ho chi minh city, vietnam",vietnamese33,vietnamese,female,2013,vietnam,False
+29.0,25.0,"ho chi minh city, vietnam",vietnamese34,vietnamese,male,396,vietnam,False
+46.0,25.0,"haiphong, vietnam",vietnamese35,vietnamese,female,2042,vietnam,False
+21.0,16.0,"hanoi, vietnam",vietnamese36,vietnamese,male,2099,vietnam,False
+23.0,8.0,"bien hoa, vietnam",vietnamese37,vietnamese,male,2151,vietnam,False
+28.0,9.0,"vinh long, vietnam",vietnamese38,vietnamese,female,397,vietnam,False
+25.0,15.0,"hanoi, vietnam",vietnamese39,vietnamese,female,398,vietnam,False
+34.0,31.0,"cam ranh, vietnam",vietnamese40,vietnamese,male,399,vietnam,False
+41.0,12.0,"ho chi minh city, vietnam",vietnamese41,vietnamese,male,400,vietnam,False
+29.0,18.0,"hue, vietnam",vietnamese42,vietnamese,female,401,vietnam,False
+69.0,12.0,"ninh binh, vietnam",vietnamese43,vietnamese,male,447,vietnam,False
+20.0,14.0,"ho chi minh city, vietnam",vietnamese44,vietnamese,male,1134,vietnam,False
+29.0,12.0,"can tho, vietnam",vietnamese45,vietnamese,male,395,vietnam,False
+57.0,18.0,"quang nam, vietnam",vietnamese46,vietnamese,female,1192,vietnam,False
+67.0,15.0,"quang nam, vietnam",vietnamese47,vietnamese,male,1201,vietnam,False
+24.0,9.0,"can tho, vietnam",vietnamese48,vietnamese,female,1529,vietnam,False
+23.0,6.0,"hanoi, vietnam",vietnamese49,vietnamese,male,1562,vietnam,False
+51.0,20.0,"ho chi minh city, vietnam",vietnamese50,vietnamese,male,1698,vietnam,False
+22.0,12.0,"hong kong, china",cantonese24,cantonese,female,45,china,False
+25.0,3.0,"xiamen, fujian, china",cantonese25,cantonese,female,505,china,False
+22.0,3.0,"hong kong, china",cantonese26,cantonese,female,544,china,False
+20.0,4.0,"macau, china",cantonese27,cantonese,female,602,china,False
+21.0,3.0,"hong kong, china",cantonese28,cantonese,female,730,china,False
+19.0,3.0,"hong kong, china",cantonese29,cantonese,female,742,china,False
+31.0,12.0,"qingyuan, guangdong, china",cantonese30,cantonese,female,862,china,False
+29.0,3.0,"hong kong, china",cantonese31,cantonese,female,874,china,False
+26.0,3.0,"hong kong, china",cantonese32,cantonese,female,878,china,False
+19.0,3.0,"hong kong, china",cantonese33,cantonese,male,885,china,False
+28.0,7.0,"hong kong, china",cantonese34,cantonese,female,1247,china,False
+20.0,13.0,"hong kong, china",cantonese35,cantonese,male,46,china,False
+18.0,3.0,"hong kong, china",cantonese36,cantonese,male,1480,china,False
+18.0,4.0,"hong kong, china",cantonese37,cantonese,female,1558,china,False
+30.0,3.0,"hong kong, china",cantonese38,cantonese,female,1974,china,False
+33.0,6.0,"hong kong, china",cantonese39,cantonese,male,1975,china,False
+22.0,6.0,"hong kong, china",cantonese40,cantonese,male,47,china,False
+29.0,13.0,"fuzhou, fujian, china",cantonese41,cantonese,female,48,china,False
+18.0,14.0,"hong kong, china",cantonese42,cantonese,male,49,china,False
+25.0,5.0,"hong kong, china",cantonese43,cantonese,male,462,china,False
+31.0,4.0,"hong kong, china",cantonese44,cantonese,male,494,china,False
+23.0,2.0,"hong kong, china",cantonese45,cantonese,female,498,china,False
+22.0,7.0,"hong kong, china",cantonese46,cantonese,male,502,china,False
+22.0,12.0,"hong kong, china",cantonese47,cantonese,female,45,china,False
+25.0,3.0,"xiamen, fujian, china",cantonese48,cantonese,female,505,china,False
+22.0,3.0,"hong kong, china",cantonese49,cantonese,female,544,china,False
+20.0,4.0,"macau, china",cantonese50,cantonese,female,602,china,False
+22.0,13.0,"tehran, iran",farsi24,farsi,male,168,iran,False
+45.0,10.0,"tehran, iran",farsi25,farsi,female,453,iran,False
+32.0,4.0,"kabul, afghanistan",farsi26,farsi,female,1015,afghanistan,False
+42.0,11.0,"kerman, iran",farsi27,farsi,male,1112,iran,False
+37.0,12.0,"ghasreshirin, iran",farsi28,farsi,male,1378,iran,False
+52.0,6.0,"bethesda, maryland, usa",farsi29,farsi,female,1572,usa,False
+20.0,4.0,"tehran, iran",farsi30,farsi,male,1598,iran,False
+54.0,38.0,"abadan, iran",farsi31,farsi,female,1623,iran,False
+27.0,16.0,"gorgan, iran",farsi32,farsi,female,1858,iran,False
+19.0,5.0,"tehran, iran",farsi33,farsi,female,1913,iran,False
+63.0,27.0,"tehran, iran",farsi34,farsi,female,1936,iran,False
+34.0,18.0,"esfahan, iran",farsi35,farsi,female,169,iran,False
+48.0,19.0,"mazare sharif, afghanistan",farsi36,farsi,female,1993,afghanistan,False
+20.0,5.0,"kabul, afghanistan",farsi37,farsi,male,2025,afghanistan,False
+20.0,5.0,"tehran, iran",farsi38,farsi,female,2037,iran,False
+24.0,5.0,"shiraz, iran",farsi39,farsi,female,2063,iran,False
+28.0,14.0,"esfahan, iran",farsi40,farsi,female,170,iran,False
+21.0,15.0,"mazandran, iran",farsi41,farsi,female,171,iran,False
+43.0,14.0,"tehran, iran",farsi42,farsi,male,172,iran,False
+27.0,9.0,"tehran, iran",farsi43,farsi,male,173,iran,False
+29.0,11.0,"tehran, iran",farsi44,farsi,male,174,iran,False
+29.0,11.0,"tehran, iran",farsi45,farsi,female,175,iran,False
+39.0,12.0,"tehran, iran",farsi46,farsi,male,176,iran,False
+22.0,13.0,"tehran, iran",farsi47,farsi,male,168,iran,False
+45.0,10.0,"tehran, iran",farsi48,farsi,female,453,iran,False
+32.0,4.0,"kabul, afghanistan",farsi49,farsi,female,1015,afghanistan,False
+42.0,11.0,"kerman, iran",farsi50,farsi,male,1112,iran,False
+19.0,11.0,"ohrid, macedonia",macedonian27,macedonian,male,253,macedonia,False
+20.0,10.0,"skopje, macedonia",macedonian28,macedonian,female,1590,macedonia,False
+20.0,8.0,"skopje, macedonia",macedonian29,macedonian,female,1591,macedonia,False
+20.0,10.0,"skopje, macedonia",macedonian30,macedonian,female,1592,macedonia,False
+20.0,8.0,"skopje, macedonia",macedonian31,macedonian,female,1593,macedonia,False
+20.0,9.0,"skopje, macedonia",macedonian32,macedonian,female,1594,macedonia,False
+20.0,10.0,"skopje, macedonia",macedonian33,macedonian,female,1595,macedonia,False
+20.0,5.0,"skopje, macedonia",macedonian34,macedonian,female,1596,macedonia,False
+24.0,6.0,"skopje, macedonia",macedonian35,macedonian,male,1597,macedonia,False
+20.0,5.0,"skopje, macedonia",macedonian36,macedonian,female,1601,macedonia,False
+22.0,10.0,"skopje, macedonia",macedonian37,macedonian,male,1602,macedonia,False
+24.0,15.0,"stip, macedonia",macedonian38,macedonian,male,888,macedonia,False
+19.0,10.0,"skopje, macedonia",macedonian39,macedonian,female,1603,macedonia,False
+19.0,12.0,"skopje, macedonia",macedonian40,macedonian,female,1604,macedonia,False
+21.0,8.0,"skopje, macedonia",macedonian41,macedonian,female,1605,macedonia,False
+20.0,11.0,"skopje, macedonia",macedonian42,macedonian,female,1606,macedonia,False
+20.0,7.0,"skopje, macedonia",macedonian43,macedonian,female,1607,macedonia,False
+20.0,9.0,"skopje, macedonia",macedonian44,macedonian,female,1608,macedonia,False
+29.0,11.0,"ohrid, macedonia",macedonian45,macedonian,male,2014,macedonia,False
+24.0,11.0,"stip, macedonia",macedonian46,macedonian,male,948,macedonia,False
+21.0,11.0,"stip, macedonia",macedonian47,macedonian,male,949,macedonia,False
+19.0,11.0,"skopje, macedonia",macedonian48,macedonian,female,1585,macedonia,False
+19.0,9.0,"skopje, macedonia",macedonian49,macedonian,male,1586,macedonia,False
+19.0,10.0,"skopje, macedonia",macedonian50,macedonian,female,1587,macedonia,False
+25.0,12.0,"tokyo, japan",japanese28,japanese,female,221,japan,False
+26.0,12.0,"hakodate, japan",japanese29,japanese,female,827,japan,False
+29.0,13.0,"toyama, japan",japanese30,japanese,female,1046,japan,False
+36.0,12.0,"tokyo, japan",japanese31,japanese,male,1365,japan,False
+28.0,11.0,"gunma, japan",japanese32,japanese,male,1381,japan,False
+37.0,12.0,"akashi, japan",japanese33,japanese,female,1382,japan,False
+45.0,12.0,"osaka, japan",japanese34,japanese,male,1521,japan,False
+25.0,3.0,"clark field, philippines",japanese35,japanese,female,1537,philippines,False
+44.0,13.0,"nara, japan",japanese36,japanese,female,1610,japan,False
+52.0,13.0,"kyoto, japan",japanese37,japanese,female,1626,japan,False
+57.0,13.0,"naha, japan",japanese38,japanese,female,1684,japan,False
+27.0,12.0,"tokyo, japan",japanese39,japanese,female,222,japan,False
+21.0,14.0,"yokosuka, japan",japanese40,japanese,male,1833,japan,False
+53.0,13.0,"tokyo, japan",japanese41,japanese,female,1847,japan,False
+69.0,12.0,"ashiya, japan",japanese42,japanese,female,1881,japan,False
+24.0,5.0,"kawasaki, japan",japanese43,japanese,male,1942,japan,False
+40.0,13.0,"tokyo, japan",japanese44,japanese,female,1948,japan,False
+52.0,13.0,"kyoto, japan",japanese45,japanese,female,1987,japan,False
+44.0,13.0,"yokosuka, japan",japanese46,japanese,female,1991,japan,False
+21.0,13.0,"tokyo, japan",japanese47,japanese,female,2123,japan,False
+49.0,12.0,"kofu, yamanashi prefecture, japan",japanese48,japanese,female,223,japan,False
+20.0,15.0,"tokyo, japan",japanese49,japanese,male,224,japan,False
+25.0,12.0,"chiba, japan",japanese50,japanese,female,225,japan,False
+29.0,22.0,"carbonia, italy",italian34,italian,female,217,italy,False
+48.0,12.0,"palermo, italy",italian35,italian,male,627,italy,False
+30.0,18.0,"cagliari, italy",italian36,italian,male,641,italy,False
+38.0,14.0,"bellinzona, switzerland",italian37,italian,female,681,switzerland,False
+20.0,8.0,"enna, italy",italian38,italian,male,733,italy,False
+20.0,8.0,"cosenza, italy",italian39,italian,male,761,italy,False
+48.0,15.0,"forli, italy",italian40,italian,male,839,italy,False
+40.0,14.0,"mantua, italy",italian41,italian,male,942,italy,False
+28.0,14.0,"turin, italy",italian42,italian,male,995,italy,False
+20.0,8.0,"grugliasco, italy",italian43,italian,male,1043,italy,False
+19.0,11.0,"rome, italy",italian44,italian,male,1114,italy,False
+46.0,18.0,"caltanissetta, sicily, italy",italian45,italian,male,218,italy,False
+32.0,15.0,"naples, italy",italian46,italian,male,1123,italy,False
+42.0,20.0,"trento, italy",italian47,italian,male,1124,italy,False
+23.0,6.0,"teramo, italy",italian48,italian,male,1175,italy,False
+34.0,14.0,"cuneo, italy",italian49,italian,female,1177,italy,False
+23.0,6.0,"milan, italy",italian50,italian,female,1406,italy,False
+26.0,23.0,"janow, poland",polish35,polish,female,277,poland,False
+30.0,15.0,"wolanow, poland",polish36,polish,female,842,poland,False
+56.0,10.0,"warsaw, poland",polish37,polish,female,843,poland,False
+40.0,20.0,"warsaw, poland",polish38,polish,male,883,poland,False
+22.0,14.0,"gryfino, western pomerania, poland",polish39,polish,male,958,poland,False
+97.0,35.0,"warsaw, poland",polish40,polish,male,1171,poland,False
+25.0,9.0,"ketrzyn, poland",polish41,polish,female,1245,poland,False
+19.0,8.0,"koszalin, poland",polish42,polish,male,1278,poland,False
+33.0,13.0,"krakow, poland",polish43,polish,female,1453,poland,False
+18.0,5.0,"bialystok, poland",polish44,polish,male,1483,poland,False
+24.0,7.0,"belchatow, poland",polish45,polish,male,1549,poland,False
+26.0,25.0,"mielec, poland",polish46,polish,female,278,poland,False
+53.0,4.0,"gdansk, poland",polish47,polish,female,1625,poland,False
+30.0,10.0,"kolobrzeg, poland",polish48,polish,male,1651,poland,False
+19.0,11.0,"koszalin, poland",polish49,polish,male,1652,poland,False
+21.0,8.0,"lobez, poland",polish50,polish,male,1653,poland,False
+48.0,12.0,"dusseldorf, germany",german37,german,female,189,germany,False
+24.0,10.0,"darmstadt, germany",german38,german,male,635,germany,False
+20.0,11.0,"frankfurt, germany",german39,german,female,640,germany,False
+29.0,14.0,"feldkirch, austria",german40,german,female,651,austria,False
+54.0,13.0,"eschen, liechtenstein",german41,german,female,652,liechtenstein,False
+30.0,10.0,"vienna, austria",german42,german,female,675,austria,False
+35.0,11.0,"innsbruck, austria",german43,german,male,676,austria,False
+31.0,11.0,"bremen, germany",german44,german,female,881,germany,False
+53.0,10.0,"frankfurt, germany",german45,german,female,882,germany,False
+29.0,6.0,"bad aussee, austria",german46,german,male,893,austria,False
+19.0,11.0,"offenbach, germany",german47,german,female,928,germany,False
+29.0,12.0,"bemberg, germany",german48,german,female,190,germany,False
+41.0,16.0,"chur, switzerland",german49,german,male,936,switzerland,False
+20.0,10.0,"villach, austria",german50,german,female,1064,austria,False
+27.0,26.0,"bingol, turkey",turkish38,turkish,female,381,turkey,False
+27.0,11.0,"ankara, turkey",turkish39,turkish,male,578,turkey,False
+24.0,23.0,"kocaeli, turkey",turkish40,turkish,female,634,turkey,False
+25.0,20.0,"giresun, turkey",turkish41,turkish,male,672,turkey,False
+18.0,3.0,"istanbul, turkey",turkish42,turkish,female,686,turkey,False
+23.0,6.0,"istanbul, turkey",turkish43,turkish,female,735,turkey,False
+18.0,10.0,"ankara, turkey",turkish44,turkish,male,736,turkey,False
+25.0,12.0,"kars, turkey",turkish45,turkish,male,745,turkey,False
+31.0,6.0,"ankara, turkey",turkish46,turkish,male,763,turkey,False
+27.0,9.0,"stuttgart, germany",turkish47,turkish,male,926,germany,False
+25.0,18.0,"istanbul, turkey",turkish48,turkish,male,971,turkey,False
+24.0,16.0,"ankara, turkey",turkish49,turkish,male,382,turkey,False
+19.0,9.0,"kocaeli, turkey",turkish50,turkish,female,1144,turkey,False
+38.0,13.0,"nijmegen, netherlands",dutch48,dutch,male,57,netherlands,False
+39.0,12.0,"essen, belgium",dutch49,dutch,male,913,belgium,False
+41.0,14.0,"brugge, belgium",dutch50,dutch,male,929,belgium,False
+37.0,16.0,"bahia, brazil",portuguese49,portuguese,female,281,brazil,False
+21.0,13.0,"novo hamburgo, rio grande do sul, brazil",portuguese50,portuguese,male,282,brazil,False
+37.0,36.0,"nizhni novgorod, russia",russian49,russian,male,299,russia,False
+20.0,5.0,"moscow, russia",russian50,russian,female,300,russia,False
